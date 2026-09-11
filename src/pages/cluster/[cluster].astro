@@ -1,0 +1,44 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import platforms from '../../data/platforms.json';
+
+export async function getStaticPaths() {
+  const clusters = [...new Set(platforms.map((p: any) => p.cluster))];
+  return clusters.map((cluster: string) => ({
+    params: { cluster },
+    props: { 
+      cluster,
+      items: platforms.filter(p => p.cluster === cluster)
+    },
+  }));
+}
+
+const { cluster, items } = Astro.props;
+const formattedTitle = cluster.replace('_', ' ').replace(/\b\w/g, l => l.toUpperCase());
+---
+
+<Layout title={`${formattedTitle} in Kenya`}>
+  <div class="max-w-7xl mx-auto px-4 py-12">
+    <header class="mb-12 text-center">
+      <h1 class="text-4xl font-bold text-gray-900 mb-4">{formattedTitle} in Kenya</h1>
+      <p class="text-xl text-gray-600 max-w-2xl mx-auto">
+        Explore our verified list of {formattedTitle.toLowerCase()} platforms.
+      </p>
+    </header>
+
+    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+      {items.map((platform: any) => (
+        <a 
+          href={`/jobs/${platform.slug}`}
+          class="block p-6 bg-white rounded-xl shadow-sm border border-gray-100 hover:shadow-md hover:border-blue-500 transition-all"
+        >
+          <span class="inline-block bg-blue-100 text-blue-800 text-xs font-semibold px-2.5 py-0.5 rounded mb-2">
+            {platform.category}
+          </span>
+          <h2 class="text-xl font-bold text-gray-900 mb-2">{platform.name}</h2>
+          <p class="text-gray-600 text-sm line-clamp-3">{platform.description}</p>
+        </a>
+      ))}
+    </div>
+  </div>
+</Layout>

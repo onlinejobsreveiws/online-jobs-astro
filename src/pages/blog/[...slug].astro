@@ -1,0 +1,85 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import platforms from '../../data/platforms.json';
+
+export async function getStaticPaths() {
+  return platforms.map((platform: any) => ({
+    params: { slug: platform.slug },
+    props: { platform },
+  }));
+}
+
+const { platform } = Astro.props;
+---
+
+<Layout title={`How to Make Money with ${platform.name} in Kenya`} description={`Learn how to make money with ${platform.name} in Kenya. Detailed review covering payment methods, M-Pesa integration, pros, cons, and expert tips.`}>
+  <div class="max-w-4xl mx-auto px-4 py-12">
+    <nav class="text-sm text-gray-500 mb-6">
+      <ol class="list-none p-0 inline-flex">
+        <li><a href="/" class="hover:text-blue-600">Home</a> / </li>
+        <li><a href={`/cluster/${platform.cluster}`} class="hover:text-blue-600 capitalize">{platform.cluster.replace('_', ' ')}</a> / </li>
+        <li class="text-gray-900 font-medium">{platform.name}</li>
+      </ol>
+    </nav>
+
+    <header class="mb-10 border-b pb-6">
+      <h1 class="text-4xl md:text-5xl font-extrabold text-gray-900 mt-2 mb-4">
+        How to Make Money with {platform.name} in Kenya: 2026 Guide
+      </h1>
+      <p class="text-xl text-gray-600 leading-relaxed">{platform.description}</p>
+    </header>
+
+    <article class="prose prose-lg prose-blue max-w-none">
+      <section class="mb-8">
+        <h2 class="text-3xl font-bold text-gray-800 mb-4">What is {platform.name}?</h2>
+        <p class="text-gray-700 leading-loose">{platform.detailed_overview}</p>
+      </section>
+
+      <section class="my-10">
+        <h2 class="text-2xl font-bold text-gray-800 mb-4">Video Tutorial</h2>
+        <div class="relative w-full pb-[56.25%] h-0 rounded-xl overflow-hidden shadow-lg bg-black">
+          <iframe 
+            src={`https://www.youtube.com/embed/${platform.youtube_video_id}`} 
+            title={`${platform.name} Tutorial`}
+            class="absolute top-0 left-0 w-full h-full"
+            allowFullScreen
+          ></iframe>
+        </div>
+      </section>
+
+      <section class="mb-8 bg-gray-50 p-8 rounded-2xl border border-gray-200">
+        <h2 class="text-2xl font-bold text-gray-800 mb-6">Financial Details for Kenyans</h2>
+        <div class="grid md:grid-cols-2 gap-6">
+          <div>
+            <h3 class="font-semibold text-gray-900">Payment Methods</h3>
+            <ul class="list-disc pl-5 mt-2 space-y-1 text-gray-700">
+              {platform.payment_methods.map((m: string) => <li>{m}</li>)}
+            </ul>
+          </div>
+          <div>
+            <h3 class="font-semibold text-gray-900">Payout Info</h3>
+            <p class="mt-2 text-gray-700"><strong>Minimum:</strong> {platform.minimum_payout}</p>
+            <p class="text-gray-700"><strong>Frequency:</strong> {platform.payout_frequency}</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="mb-10 border-l-4 border-blue-500 pl-6 py-2">
+        <h2 class="text-2xl font-bold text-gray-800 mb-2">Tips for Success in Kenya</h2>
+        <p class="text-lg text-gray-700 italic">{platform.kenya_specific_tips}</p>
+      </section>
+
+      <section class="text-center my-16 bg-blue-600 text-white p-10 rounded-2xl shadow-xl">
+        <h2 class="text-3xl font-bold mb-4">Ready to Start Earning?</h2>
+        <a 
+          href={platform.affiliate_link} 
+          target="_blank" 
+          rel="noopener noreferrer"
+          class="inline-block bg-white text-blue-600 font-bold py-4 px-10 rounded-full hover:bg-gray-100 transition duration-300 shadow-md"
+        >
+          Sign Up for {platform.name} Now
+        </a>
+      </section>
+    </article>
+  </div>
+</Layout>
