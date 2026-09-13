@@ -7,12 +7,13 @@ interface Props {
 }
 
 const { title, description = 'Discover legitimate ways to make money online in Kenya.' } = Astro.props;
+
+// Environment variables from Cloudflare Pages / GitHub Repository Variables
+const gaId = import.meta.env.PUBLIC_GOOGLE_ANALYTICS_ID || '';
+const adSenseId = import.meta.env.PUBLIC_GOOGLE_ADSENSE_ID || '';
+const searchConsoleTag = import.meta.env.PUBLIC_SEARCH_CONSOLE_TAG || '';
 ---
----
-// TEMPORARY TEST
-const gaId = 'G-JC2LJERVFJ'; 
-const searchConsoleTag = '<meta name="google-site-verification" content="zeYZFAsC0j24GW1gUp2wW4ApC5yElJDY4NUKrcG0axg" />';
----
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -21,6 +22,29 @@ const searchConsoleTag = '<meta name="google-site-verification" content="zeYZFAs
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <title>{title} | OnlineJobsReveiws.co.ke</title>
+
+    <!-- Google Search Console Verification -->
+    {searchConsoleTag && (
+      <meta name="google-site-verification" content={searchConsoleTag.replace('google-site-verification=', '')} />
+    )}
+
+    <!-- Google Analytics (GA4) -->
+    {gaId && (
+      <>
+        <script async src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`}></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', '${gaId}');
+        </script>
+      </>
+    )}
+
+    <!-- Google AdSense Auto Ads -->
+    {adSenseId && (
+      <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adSenseId}`} crossorigin="anonymous"></script>
+    )}
   </head>
   <body class="flex flex-col min-h-screen bg-gray-50 text-gray-900">
     <header class="bg-white border-b border-gray-200 sticky top-0 z-50">
