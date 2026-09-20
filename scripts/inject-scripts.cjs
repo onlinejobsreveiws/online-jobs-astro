@@ -1,7 +1,13 @@
 const fs = require('fs');
 const path = require('path');
 
-// Read variables directly from Cloudflare's build environment
+// Load .env file if it exists (for local builds only)
+const envPath = path.join(__dirname, '..', '.env');
+if (fs.existsSync(envPath)) {
+  require('dotenv').config({ path: envPath });
+}
+
+// Read variables from environment (Cloudflare provides these during remote builds)
 const GA_ID = process.env.PUBLIC_GOOGLE_ANALYTICS_ID || '';
 const ADSENSE_ID = process.env.PUBLIC_GOOGLE_ADSENSE_ID || '';
 const SEARCH_TAG = process.env.PUBLIC_SEARCH_CONSOLE_TAG || '';
@@ -14,6 +20,8 @@ if (!GA_ID && !ADSENSE_ID && !SEARCH_TAG) {
   console.error('[INJECT] ERROR: No environment variables found. Aborting.');
   process.exit(1);
 }
+
+// ... rest of your existing replacement logic remains unchanged ...
 
 // Generate replacement strings
 const searchConsoleMeta = SEARCH_TAG 
