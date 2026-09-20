@@ -7,7 +7,7 @@
   },
   "scripts": {
   "dev": "astro dev",
-  "build": "astro build && node -e \"const fs=require('fs'); const path='dist/client/.wrangler'; if(fs.existsSync(path)) fs.rmSync(path,{recursive:true,force:true}); const wj='dist/client/wrangler.json'; if(fs.existsSync(wj)) fs.unlinkSync(wj);\"",
+  "build": "astro build",
   "preview": "astro preview",
   "astro": "astro"
 },
