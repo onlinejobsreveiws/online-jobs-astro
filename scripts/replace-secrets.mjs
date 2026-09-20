@@ -1,13 +1,14 @@
 import fs from 'fs';
 import path from 'path';
-import dotenv from 'dotenv';
 
-// Load .env file
-dotenv.config();
-
+// Read variables directly from Cloudflare's build environment
 const GA_ID = process.env.PUBLIC_GOOGLE_ANALYTICS_ID || '';
 const ADSENSE_ID = process.env.PUBLIC_GOOGLE_ADSENSE_ID || '';
 const SEARCH_TAG = process.env.PUBLIC_SEARCH_CONSOLE_TAG || '';
+
+console.log(` GA_ID: ${GA_ID ? 'FOUND' : 'MISSING'}`);
+console.log(`🔍 ADSENSE_ID: ${ADSENSE_ID ? 'FOUND' : 'MISSING'}`);
+console.log(`🔍 SEARCH_TAG: ${SEARCH_TAG ? 'FOUND' : 'MISSING'}`);
 
 // Generate replacement strings
 const searchConsoleMeta = SEARCH_TAG 
