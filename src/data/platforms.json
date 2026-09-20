@@ -6,12 +6,28 @@
     "category": "Freelance Marketplace",
     "description": "The world's largest platform for professional freelancers.",
     "detailed_overview": "Upwork is the premier global freelancing marketplace where Kenyan professionals connect with international clients. It is ideal for writers, software developers, graphic designers, and virtual assistants seeking long-term contracts. With secure payment protection via Escrow, Upwork ensures you get paid for your work. Kenyans can withdraw earnings directly to local banks like Equity and KCB or via PayPal.",
-    "payment_methods": ["PayPal", "Direct to Local Bank", "Wire Transfer"],
+    "payment_methods": [
+      "PayPal",
+      "Direct to Local Bank",
+      "Wire Transfer"
+    ],
     "minimum_payout": "$0.01",
     "payout_frequency": "Instant to 5 days",
-    "requirements": ["Professional portfolio", "Verified identity", "Strong English skills"],
-    "pros": ["High earning potential", "Secure payments", "Global exposure"],
-    "cons": ["10% service fee", "High competition", "Connects cost money"],
+    "requirements": [
+      "Professional portfolio",
+      "Verified identity",
+      "Strong English skills"
+    ],
+    "pros": [
+      "High earning potential",
+      "Secure payments",
+      "Global exposure"
+    ],
+    "cons": [
+      "10% service fee",
+      "High competition",
+      "Connects cost money"
+    ],
     "kenya_specific_tips": "Link your Upwork account to a local bank like Equity or KCB for the best exchange rates and lower fees compared to PayPal.",
     "youtube_video_id": "fUd-Ox0v_Vo",
     "affiliate_link": "https://www.upwork.com/"
@@ -23,12 +39,28 @@
     "category": "Gig Economy",
     "description": "An online marketplace for freelance services starting at $5.",
     "detailed_overview": "Fiverr revolutionizes freelancing by allowing sellers to create 'Gigs' for specific services. Unlike bidding platforms, clients come to you on Fiverr. It is perfect for Kenyans skilled in logo design, voice-overs, translation, and digital marketing. The platform supports withdrawals via Payoneer, which can then be linked to M-Pesa or local bank accounts.",
-    "payment_methods": ["Payoneer", "Bank Transfer", "PayPal"],
+    "payment_methods": [
+      "Payoneer",
+      "Bank Transfer",
+      "PayPal"
+    ],
     "minimum_payout": "$1",
     "payout_frequency": "14 days after order completion",
-    "requirements": ["Clear gig descriptions", "High-quality samples", "Fast response time"],
-    "pros": ["Easy to start", "You set your prices", "Large traffic"],
-    "cons": ["20% commission fee", "Hard to get first orders", "Strict terms"],
+    "requirements": [
+      "Clear gig descriptions",
+      "High-quality samples",
+      "Fast response time"
+    ],
+    "pros": [
+      "Easy to start",
+      "You set your prices",
+      "Large traffic"
+    ],
+    "cons": [
+      "20% commission fee",
+      "Hard to get first orders",
+      "Strict terms"
+    ],
     "kenya_specific_tips": "Focus on niche services like Swahili translation or African-style graphic design to stand out from the global competition.",
     "youtube_video_id": "CXKGLnfhSks",
     "affiliate_link": "https://www.fiverr.com/"
@@ -40,12 +72,28 @@
     "category": "Bidding Platform",
     "description": "A global freelancing and crowdsourcing marketplace.",
     "detailed_overview": "Freelancer.com is one of the oldest and largest freelancing platforms, offering millions of projects in data entry, coding, and writing. Kenyans can bid on projects or enter contests to showcase their skills. It offers a wide variety of jobs but requires a strategic approach to bidding to win clients.",
-    "payment_methods": ["PayPal", "Skrill", "Wire Transfer"],
+    "payment_methods": [
+      "PayPal",
+      "Skrill",
+      "Wire Transfer"
+    ],
     "minimum_payout": "$10",
     "payout_frequency": "Weekly",
-    "requirements": ["Profile verification", "Bid credits", "ID verification"],
-    "pros": ["Huge volume of projects", "Contest options", "Mobile app"],
-    "cons": ["High fees for non-premium members", "Spam bids", "Complex interface"],
+    "requirements": [
+      "Profile verification",
+      "Bid credits",
+      "ID verification"
+    ],
+    "pros": [
+      "Huge volume of projects",
+      "Contest options",
+      "Mobile app"
+    ],
+    "cons": [
+      "High fees for non-premium members",
+      "Spam bids",
+      "Complex interface"
+    ],
     "kenya_specific_tips": "Use the 'Preferred Freelancer' program if you have a strong portfolio to reduce competition and win higher-paying jobs.",
     "youtube_video_id": "-XlEB9HThvs",
     "affiliate_link": "https://www.freelancer.com/"
@@ -57,12 +105,27 @@
     "category": "Elite Freelancing",
     "description": "An exclusive network for the top 3% of freelance talent.",
     "detailed_overview": "Toptal is an elite freelancing network that connects the top 3% of global talent with leading companies. It is highly selective, requiring rigorous testing in coding, design, or finance. For Kenyan experts, Toptal offers significantly higher pay rates than standard marketplaces and long-term stability.",
-    "payment_methods": ["Wire Transfer", "PayPal"],
+    "payment_methods": [
+      "Wire Transfer",
+      "PayPal"
+    ],
     "minimum_payout": "$500",
     "payout_frequency": "Bi-weekly",
-    "requirements": ["Expert-level skills", "English fluency", "Rigorous testing"],
-    "pros": ["Very high pay rates", "Prestigious clients", "No bidding wars"],
-    "cons": ["Extremely difficult to join", "Long screening process", "High expectations"],
+    "requirements": [
+      "Expert-level skills",
+      "English fluency",
+      "Rigorous testing"
+    ],
+    "pros": [
+      "Very high pay rates",
+      "Prestigious clients",
+      "No bidding wars"
+    ],
+    "cons": [
+      "Extremely difficult to join",
+      "Long screening process",
+      "High expectations"
+    ],
     "kenya_specific_tips": "Ensure your GitHub profile or portfolio is pristine before applying, as the screening process is thorough.",
     "youtube_video_id": "0syMk9xmDmE",
     "affiliate_link": "https://www.toptal.com/"
@@ -74,12 +137,27 @@
     "category": "Freelance Marketplace",
     "description": "A UK-based freelance marketplace popular in Kenya.",
     "detailed_overview": "PeoplePerHour is a UK-based platform that is very friendly to African freelancers. It offers a mix of hourly projects and fixed-price 'Hourlies'. Kenyans find success here in writing, admin support, and tech roles. The platform provides a secure payment system and good customer support.",
-    "payment_methods": ["Payoneer", "Wire Transfer"],
+    "payment_methods": [
+      "Payoneer",
+      "Wire Transfer"
+    ],
     "minimum_payout": "£20",
     "payout_frequency": "Weekly",
-    "requirements": ["Profile completion", "Skill tests", "ID verification"],
-    "pros": ["Lower competition than Upwork", "Good support", "Hourly tracker"],
-    "cons": ["Smaller market size", "Withdrawal fees", "Limited categories"],
+    "requirements": [
+      "Profile completion",
+      "Skill tests",
+      "ID verification"
+    ],
+    "pros": [
+      "Lower competition than Upwork",
+      "Good support",
+      "Hourly tracker"
+    ],
+    "cons": [
+      "Smaller market size",
+      "Withdrawal fees",
+      "Limited categories"
+    ],
     "kenya_specific_tips": "Create 'Hourlies' (fixed price offers) to attract buyers quickly without having to bid on every project.",
     "youtube_video_id": "0OUAGHf6NN4",
     "affiliate_link": "https://www.peopleperhour.com/"
@@ -91,12 +169,27 @@
     "category": "Freelance Platform",
     "description": "One of the oldest freelance platforms with a focus on long-term relationships.",
     "detailed_overview": "Guru is one of the oldest freelancing platforms, focusing on building long-term relationships between employers and freelancers. It features a SafePay system that protects your earnings. Kenyans often use Guru for administrative, technical, and creative roles.",
-    "payment_methods": ["Payoneer", "Wire Transfer", "Check"],
+    "payment_methods": [
+      "Payoneer",
+      "Wire Transfer",
+      "Check"
+    ],
     "minimum_payout": "$50",
     "payout_frequency": "Weekly",
-    "requirements": ["Identity verification", "Professional profile"],
-    "pros": ["Low fees for basic members", "SafePay protection", "Easy interface"],
-    "cons": ["Outdated design", "Fewer creative jobs", "Slower growth"],
+    "requirements": [
+      "Identity verification",
+      "Professional profile"
+    ],
+    "pros": [
+      "Low fees for basic members",
+      "SafePay protection",
+      "Easy interface"
+    ],
+    "cons": [
+      "Outdated design",
+      "Fewer creative jobs",
+      "Slower growth"
+    ],
     "kenya_specific_tips": "Look for 'WorkRoom' projects which allow for better collaboration and recurring income from single clients.",
     "youtube_video_id": "j7CwfYc4Xio",
     "affiliate_link": "https://www.guru.com/"
@@ -108,12 +201,26 @@
     "category": "Remote Job Board",
     "description": "A curated job board for remote and flexible work.",
     "detailed_overview": "FlexJobs is a premium job board that screens every listing to ensure it is legitimate and scam-free. While it requires a subscription, it saves Kenyans time by filtering out fake jobs. It is excellent for finding remote corporate roles in customer service, writing, and tech.",
-    "payment_methods": ["N/A (Job Board)"],
+    "payment_methods": [
+      "N/A (Job Board)"
+    ],
     "minimum_payout": "N/A",
     "payout_frequency": "N/A",
-    "requirements": ["Subscription fee", "Professional resume", "Interview skills"],
-    "pros": ["Scam-free environment", "High-quality employers", "Career coaching"],
-    "cons": ["Requires payment to apply", "Not a direct payment platform", "Competitive"],
+    "requirements": [
+      "Subscription fee",
+      "Professional resume",
+      "Interview skills"
+    ],
+    "pros": [
+      "Scam-free environment",
+      "High-quality employers",
+      "Career coaching"
+    ],
+    "cons": [
+      "Requires payment to apply",
+      "Not a direct payment platform",
+      "Competitive"
+    ],
     "kenya_specific_tips": "Use the advanced search filters to find jobs specifically open to 'Worldwide' or 'Africa' candidates.",
     "youtube_video_id": "bnqXdkWa0R4",
     "affiliate_link": "https://www.flexjobs.com/"
@@ -125,12 +232,25 @@
     "category": "Lead Generation",
     "description": "A service that sends you the best 1% of freelance jobs daily.",
     "detailed_overview": "SolidGigs is a lead generation service that curates the best freelance jobs from across the web and sends them to your inbox. It saves Kenyans hours of searching. While it doesn't host jobs, it provides high-quality leads for writers, designers, and developers.",
-    "payment_methods": ["Credit Card"],
+    "payment_methods": [
+      "Credit Card"
+    ],
     "minimum_payout": "N/A",
     "payout_frequency": "N/A",
-    "requirements": ["Monthly subscription", "Proactive pitching"],
-    "pros": ["Saves time", "High-quality leads", "Includes training courses"],
-    "cons": ["Paid service", "Leads are external links", "Requires self-discipline"],
+    "requirements": [
+      "Monthly subscription",
+      "Proactive pitching"
+    ],
+    "pros": [
+      "Saves time",
+      "High-quality leads",
+      "Includes training courses"
+    ],
+    "cons": [
+      "Paid service",
+      "Leads are external links",
+      "Requires self-discipline"
+    ],
     "kenya_specific_tips": "Great for established freelancers who want to skip the bidding phase and pitch directly to clients.",
     "youtube_video_id": "Iwtm5-GNHzg",
     "affiliate_link": "https://solidgigs.com/"
@@ -142,12 +262,27 @@
     "category": "Commission-Free Freelancing",
     "description": "A professional network for independents with zero commission fees.",
     "detailed_overview": "Contra is a modern professional network that charges zero commission fees to freelancers. It allows Kenyans to showcase their portfolio and get hired directly by clients. It is gaining popularity for its sleek interface and focus on independent workers.",
-    "payment_methods": ["Stripe", "Bank Transfer"],
+    "payment_methods": [
+      "Stripe",
+      "Bank Transfer"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Direct from client",
-    "requirements": ["Portfolio", "Professional profile", "Networking"],
-    "pros": ["0% commission", "Beautiful portfolio builder", "Modern interface"],
-    "cons": ["Smaller user base", "You handle invoicing", "Newer platform"],
+    "requirements": [
+      "Portfolio",
+      "Professional profile",
+      "Networking"
+    ],
+    "pros": [
+      "0% commission",
+      "Beautiful portfolio builder",
+      "Modern interface"
+    ],
+    "cons": [
+      "Smaller user base",
+      "You handle invoicing",
+      "Newer platform"
+    ],
     "kenya_specific_tips": "Use Contra as your primary portfolio link when pitching clients on social media like LinkedIn or Twitter.",
     "youtube_video_id": "IRrc-Jcak-s",
     "affiliate_link": "https://contra.com/"
@@ -159,12 +294,26 @@
     "category": "Latin American/Global Market",
     "description": "The largest freelance platform in Latin America, now global.",
     "detailed_overview": "Workana is the leading freelance platform in Latin America but has expanded globally. It offers many opportunities for English and Spanish speakers. Kenyans can find less competition here compared to Upwork, especially in writing and translation roles.",
-    "payment_methods": ["Payoneer", "PayPal"],
+    "payment_methods": [
+      "Payoneer",
+      "PayPal"
+    ],
     "minimum_payout": "$50",
     "payout_frequency": "Upon project completion",
-    "requirements": ["Profile verification", "ID upload"],
-    "pros": ["Less saturated than Upwork", "Escrow protection", "Mobile app"],
-    "cons": ["Higher fees for lower tiers", "Support can be slow", "Language barrier"],
+    "requirements": [
+      "Profile verification",
+      "ID upload"
+    ],
+    "pros": [
+      "Less saturated than Upwork",
+      "Escrow protection",
+      "Mobile app"
+    ],
+    "cons": [
+      "Higher fees for lower tiers",
+      "Support can be slow",
+      "Language barrier"
+    ],
     "kenya_specific_tips": "If you know any Spanish, this platform is a goldmine for Kenyans looking to tap into the Latin American market.",
     "youtube_video_id": "BhXpnH2wW0o",
     "affiliate_link": "https://www.workana.com/"
@@ -176,12 +325,27 @@
     "category": "Freelance Marketplace",
     "description": "A freelance marketplace with a strong presence in Asia and Africa.",
     "detailed_overview": "Truelancer is a growing freelance marketplace that is very accessible to Kenyan freelancers. It offers a wide range of jobs in writing, data entry, and design. The platform is known for its low fees and easy withdrawal options.",
-    "payment_methods": ["PayPal", "Payoneer", "Bank Transfer"],
+    "payment_methods": [
+      "PayPal",
+      "Payoneer",
+      "Bank Transfer"
+    ],
     "minimum_payout": "$20",
     "payout_frequency": "Weekly",
-    "requirements": ["Profile completion", "ID verification"],
-    "pros": ["Low fees", "Easy to use", "Good for beginners"],
-    "cons": ["Lower pay rates", "High competition", "Less brand recognition"],
+    "requirements": [
+      "Profile completion",
+      "ID verification"
+    ],
+    "pros": [
+      "Low fees",
+      "Easy to use",
+      "Good for beginners"
+    ],
+    "cons": [
+      "Lower pay rates",
+      "High competition",
+      "Less brand recognition"
+    ],
     "kenya_specific_tips": "Start with smaller jobs to build your rating and reputation on the platform.",
     "youtube_video_id": "koxpVKnv1p0",
     "affiliate_link": "https://www.truelancer.com/"
@@ -193,12 +357,25 @@
     "category": "Content Writing",
     "description": "A content writing platform for bloggers and article writers.",
     "detailed_overview": "HireWriters is a platform specifically for content writers. Kenyans with strong English skills can find consistent work writing blog posts, articles, and web content. It is a great starting point for beginner writers.",
-    "payment_methods": ["PayPal"],
+    "payment_methods": [
+      "PayPal"
+    ],
     "minimum_payout": "$10",
     "payout_frequency": "Weekly",
-    "requirements": ["Writing test", "Grammar skills"],
-    "pros": ["Consistent work", "Good for beginners", "Simple interface"],
-    "cons": ["Low pay per word", "Strict quality standards", "PayPal only"],
+    "requirements": [
+      "Writing test",
+      "Grammar skills"
+    ],
+    "pros": [
+      "Consistent work",
+      "Good for beginners",
+      "Simple interface"
+    ],
+    "cons": [
+      "Low pay per word",
+      "Strict quality standards",
+      "PayPal only"
+    ],
     "kenya_specific_tips": "Focus on niches you are knowledgeable about to write faster and improve your quality score.",
     "youtube_video_id": "Lc5IO74gFvA",
     "affiliate_link": "https://hirewriters.com/"
@@ -210,12 +387,26 @@
     "category": "Content Writing",
     "description": "A content mill for freelance writers.",
     "detailed_overview": "Textbroker is a well-known content mill that assigns articles based on your writing level. It is accessible to Kenyans and provides a steady stream of writing tasks, though the pay is modest.",
-    "payment_methods": ["PayPal", "Payoneer"],
+    "payment_methods": [
+      "PayPal",
+      "Payoneer"
+    ],
     "minimum_payout": "$10",
     "payout_frequency": "Weekly",
-    "requirements": ["Writing sample", "Grammar check"],
-    "pros": ["Always available work", "Flexible schedule", "Easy to start"],
-    "cons": ["Low pay", "Repetitive topics", "Strict deadlines"],
+    "requirements": [
+      "Writing sample",
+      "Grammar check"
+    ],
+    "pros": [
+      "Always available work",
+      "Flexible schedule",
+      "Easy to start"
+    ],
+    "cons": [
+      "Low pay",
+      "Repetitive topics",
+      "Strict deadlines"
+    ],
     "kenya_specific_tips": "Aim to improve your star rating to access higher-paying orders.",
     "youtube_video_id": "GanWuWdOihM",
     "affiliate_link": "https://www.textbroker.com/"
@@ -227,12 +418,25 @@
     "category": "Job Board",
     "description": "A job board for blogging and content writing gigs.",
     "detailed_overview": "ProBlogger is not a marketplace but a job board where high-quality clients post writing gigs. Kenyans can find high-paying long-term writing contracts here. It requires proactive application.",
-    "payment_methods": ["Varies by client"],
+    "payment_methods": [
+      "Varies by client"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Varies",
-    "requirements": ["Strong portfolio", "Pitching skills"],
-    "pros": ["High-paying clients", "Long-term work", "Professional environment"],
-    "cons": ["High competition", "No payment protection", "Requires pitching"],
+    "requirements": [
+      "Strong portfolio",
+      "Pitching skills"
+    ],
+    "pros": [
+      "High-paying clients",
+      "Long-term work",
+      "Professional environment"
+    ],
+    "cons": [
+      "High competition",
+      "No payment protection",
+      "Requires pitching"
+    ],
     "kenya_specific_tips": "Craft a personalized pitch for each job application to stand out from the crowd.",
     "youtube_video_id": "kGbIep47dAE",
     "affiliate_link": "https://problogger.com/jobs/"
@@ -244,12 +448,27 @@
     "category": "Chat Moderation",
     "description": "A platform for chat moderation and customer support.",
     "detailed_overview": "Cloudworker hires remote chat moderators and customer support agents. Kenyans with good typing skills and patience can find work here. It often involves night shifts to cater to global clients.",
-    "payment_methods": ["Bank Transfer", "PayPal"],
+    "payment_methods": [
+      "Bank Transfer",
+      "PayPal"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Monthly",
-    "requirements": ["Typing speed", "Internet stability", "Shift availability"],
-    "pros": ["Steady income", "No special skills needed", "Remote work"],
-    "cons": ["Night shifts", "Repetitive work", "Strict monitoring"],
+    "requirements": [
+      "Typing speed",
+      "Internet stability",
+      "Shift availability"
+    ],
+    "pros": [
+      "Steady income",
+      "No special skills needed",
+      "Remote work"
+    ],
+    "cons": [
+      "Night shifts",
+      "Repetitive work",
+      "Strict monitoring"
+    ],
     "kenya_specific_tips": "Ensure you have a stable internet connection and a quiet workspace for shift work.",
     "youtube_video_id": "oUsWCyVTMsY",
     "affiliate_link": "https://cloudworkers.company/"
@@ -261,12 +480,27 @@
     "category": "Moderation & Support",
     "description": "A company providing moderation and support services.",
     "detailed_overview": "ModSquad hires remote workers for community moderation, customer support, and content management. It is a professional company that offers flexible hours for Kenyans.",
-    "payment_methods": ["PayPal", "Direct Deposit"],
+    "payment_methods": [
+      "PayPal",
+      "Direct Deposit"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Monthly",
-    "requirements": ["Experience", "Good communication", "Reliability"],
-    "pros": ["Professional company", "Flexible hours", "Variety of projects"],
-    "cons": ["Hard to get in", "Project-based work", "Variable hours"],
+    "requirements": [
+      "Experience",
+      "Good communication",
+      "Reliability"
+    ],
+    "pros": [
+      "Professional company",
+      "Flexible hours",
+      "Variety of projects"
+    ],
+    "cons": [
+      "Hard to get in",
+      "Project-based work",
+      "Variable hours"
+    ],
     "kenya_specific_tips": "Highlight any previous customer service or moderation experience in your application.",
     "youtube_video_id": "q1sGBgUlXUo",
     "affiliate_link": "https://modsquad.com/"
@@ -278,12 +512,26 @@
     "category": "Content Writing",
     "description": "A premium content writing platform.",
     "detailed_overview": "Scripted is a premium platform for experienced writers. Kenyans with a strong portfolio and expertise in specific niches can earn high rates here. The acceptance rate is low.",
-    "payment_methods": ["PayPal"],
+    "payment_methods": [
+      "PayPal"
+    ],
     "minimum_payout": "$25",
     "payout_frequency": "Weekly",
-    "requirements": ["Writing test", "Portfolio", "Expertise"],
-    "pros": ["High pay rates", "Quality clients", "Professional community"],
-    "cons": ["Hard to join", "Strict quality control", "PayPal only"],
+    "requirements": [
+      "Writing test",
+      "Portfolio",
+      "Expertise"
+    ],
+    "pros": [
+      "High pay rates",
+      "Quality clients",
+      "Professional community"
+    ],
+    "cons": [
+      "Hard to join",
+      "Strict quality control",
+      "PayPal only"
+    ],
     "kenya_specific_tips": "Only apply if you have a strong portfolio of published work in specific niches.",
     "youtube_video_id": "7ChvMWK7wHc",
     "affiliate_link": "https://scripted.com/"
@@ -295,12 +543,26 @@
     "category": "Content Creation",
     "description": "A platform for freelance content creators.",
     "detailed_overview": "nDash allows writers to pitch ideas directly to brands. It is great for Kenyan writers who want to build relationships with large companies and earn higher fees.",
-    "payment_methods": ["PayPal", "Stripe"],
+    "payment_methods": [
+      "PayPal",
+      "Stripe"
+    ],
     "minimum_payout": "$50",
     "payout_frequency": "Net 30",
-    "requirements": ["Pitching skills", "Portfolio"],
-    "pros": ["Direct client relationships", "High pay", "Creative freedom"],
-    "cons": ["Requires pitching", "Slow payment", "Competitive"],
+    "requirements": [
+      "Pitching skills",
+      "Portfolio"
+    ],
+    "pros": [
+      "Direct client relationships",
+      "High pay",
+      "Creative freedom"
+    ],
+    "cons": [
+      "Requires pitching",
+      "Slow payment",
+      "Competitive"
+    ],
     "kenya_specific_tips": "Research brands thoroughly before pitching to increase your chances of acceptance.",
     "youtube_video_id": "Z-ojE2Bzupo",
     "affiliate_link": "https://www.ndash.com/"
@@ -312,12 +574,26 @@
     "category": "Content Marketing",
     "description": "A content marketing platform for top-tier writers.",
     "detailed_overview": "Contently connects freelance writers with enterprise-level brands. It is highly selective but offers some of the highest pay rates in the industry for Kenyan experts.",
-    "payment_methods": ["PayPal", "Direct Deposit"],
+    "payment_methods": [
+      "PayPal",
+      "Direct Deposit"
+    ],
     "minimum_payout": "$100",
     "payout_frequency": "Net 15",
-    "requirements": ["Expert portfolio", "Professionalism"],
-    "pros": ["Very high pay", "Prestigious clients", "Long-term projects"],
-    "cons": ["Very hard to join", "High expectations", "Slow onboarding"],
+    "requirements": [
+      "Expert portfolio",
+      "Professionalism"
+    ],
+    "pros": [
+      "Very high pay",
+      "Prestigious clients",
+      "Long-term projects"
+    ],
+    "cons": [
+      "Very hard to join",
+      "High expectations",
+      "Slow onboarding"
+    ],
     "kenya_specific_tips": "Ensure your portfolio showcases deep expertise in specific industries like tech or finance.",
     "youtube_video_id": "-R1bhgIemCw",
     "affiliate_link": "https://contently.com/"
@@ -329,12 +605,24 @@
     "category": "Content Mill",
     "description": "A content mill for quick writing jobs.",
     "detailed_overview": "iWriter is a content mill that allows writers to pick up articles instantly. It is easy for Kenyans to join, but the pay starts very low and increases as you move up ranks.",
-    "payment_methods": ["PayPal"],
+    "payment_methods": [
+      "PayPal"
+    ],
     "minimum_payout": "$20",
     "payout_frequency": "Weekly",
-    "requirements": ["Writing test"],
-    "pros": ["Instant job access", "Easy to join", "Flexible"],
-    "cons": ["Very low starting pay", "Repetitive", "Strict ranking system"],
+    "requirements": [
+      "Writing test"
+    ],
+    "pros": [
+      "Instant job access",
+      "Easy to join",
+      "Flexible"
+    ],
+    "cons": [
+      "Very low starting pay",
+      "Repetitive",
+      "Strict ranking system"
+    ],
     "kenya_specific_tips": "Focus on moving up the ranks quickly by maintaining high ratings to unlock better-paying orders.",
     "youtube_video_id": "2yYg32Dpe94",
     "affiliate_link": "https://www.iwriter.com/"
@@ -346,12 +634,26 @@
     "category": "Content Writing",
     "description": "A content creation platform for businesses.",
     "detailed_overview": "WriterAccess is a platform that connects writers with businesses needing content. Kenyans can find steady work here if they pass the qualification test.",
-    "payment_methods": ["PayPal", "Payoneer"],
+    "payment_methods": [
+      "PayPal",
+      "Payoneer"
+    ],
     "minimum_payout": "$10",
     "payout_frequency": "Weekly",
-    "requirements": ["Qualification test", "Portfolio"],
-    "pros": ["Steady work", "Good support", "Variety of topics"],
-    "cons": ["Test required", "Moderate pay", "Competition"],
+    "requirements": [
+      "Qualification test",
+      "Portfolio"
+    ],
+    "pros": [
+      "Steady work",
+      "Good support",
+      "Variety of topics"
+    ],
+    "cons": [
+      "Test required",
+      "Moderate pay",
+      "Competition"
+    ],
     "kenya_specific_tips": "Take the qualification test seriously to get access to higher-tier jobs.",
     "youtube_video_id": "IJXF9V_2LRI",
     "affiliate_link": "https://www.writeraccess.com/"
@@ -363,12 +665,27 @@
     "category": "Self-Publishing",
     "description": "Amazon's self-publishing platform for authors.",
     "detailed_overview": "Kindle Direct Publishing (KDP) allows Kenyans to self-publish eBooks and paperbacks on Amazon. It is a great way to earn passive income from writing books on niche topics.",
-    "payment_methods": ["Direct Deposit", "Check", "Wire Transfer"],
+    "payment_methods": [
+      "Direct Deposit",
+      "Check",
+      "Wire Transfer"
+    ],
     "minimum_payout": "$100",
     "payout_frequency": "Monthly",
-    "requirements": ["Book manuscript", "Cover design"],
-    "pros": ["Passive income", "Global reach", "Control over pricing"],
-    "cons": ["Marketing required", "Slow start", "High competition"],
+    "requirements": [
+      "Book manuscript",
+      "Cover design"
+    ],
+    "pros": [
+      "Passive income",
+      "Global reach",
+      "Control over pricing"
+    ],
+    "cons": [
+      "Marketing required",
+      "Slow start",
+      "High competition"
+    ],
     "kenya_specific_tips": "Research low-competition keywords on Amazon to find profitable niches for your books.",
     "youtube_video_id": "wWZ836HPtZ4",
     "affiliate_link": "https://kdp.amazon.com/"
@@ -380,12 +697,26 @@
     "category": "Publishing Services",
     "description": "A marketplace for publishing services.",
     "detailed_overview": "Reedsy connects authors with editors, designers, and marketers. Kenyans with skills in editing or book cover design can find high-paying clients here.",
-    "payment_methods": ["PayPal", "Stripe"],
+    "payment_methods": [
+      "PayPal",
+      "Stripe"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Varies",
-    "requirements": ["Portfolio", "Experience"],
-    "pros": ["High-quality clients", "Professional network", "Good pay"],
-    "cons": ["Hard to get accepted", "Service fee", "Niche market"],
+    "requirements": [
+      "Portfolio",
+      "Experience"
+    ],
+    "pros": [
+      "High-quality clients",
+      "Professional network",
+      "Good pay"
+    ],
+    "cons": [
+      "Hard to get accepted",
+      "Service fee",
+      "Niche market"
+    ],
     "kenya_specific_tips": "Build a strong portfolio of before-and-after examples to showcase your editing or design skills.",
     "youtube_video_id": "06BmZPAx-kI",
     "affiliate_link": "https://reedsy.com/"
@@ -397,12 +728,25 @@
     "category": "Content Quality",
     "description": "A platform for content quality and style checking.",
     "detailed_overview": "Acrolinx helps companies maintain content quality. While primarily a tool, they occasionally hire remote content strategists and editors. Kenyans with strong technical writing skills should keep an eye on their careers page.",
-    "payment_methods": ["Bank Transfer"],
+    "payment_methods": [
+      "Bank Transfer"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Monthly",
-    "requirements": ["Technical writing", "Experience"],
-    "pros": ["High pay", "Professional work", "Remote"],
-    "cons": ["Rare openings", "High requirements", "Corporate environment"],
+    "requirements": [
+      "Technical writing",
+      "Experience"
+    ],
+    "pros": [
+      "High pay",
+      "Professional work",
+      "Remote"
+    ],
+    "cons": [
+      "Rare openings",
+      "High requirements",
+      "Corporate environment"
+    ],
     "kenya_specific_tips": "Follow their careers page and set up alerts for remote writing or editing roles.",
     "youtube_video_id": "40J9VvHkxv0",
     "affiliate_link": "https://www.acrolinx.com/"
@@ -414,12 +758,28 @@
     "category": "Forex Broker",
     "description": "A global forex broker known for instant withdrawals.",
     "detailed_overview": "Exness is a top-tier global forex broker highly popular in Kenya due to its seamless M-Pesa integration. It offers instant withdrawals, low spreads, and unlimited leverage. It is regulated by multiple authorities, making it a trusted choice for Kenyan traders.",
-    "payment_methods": ["M-Pesa", "Airtel Money", "Bank Transfer"],
+    "payment_methods": [
+      "M-Pesa",
+      "Airtel Money",
+      "Bank Transfer"
+    ],
     "minimum_payout": "$1",
     "payout_frequency": "Instant",
-    "requirements": ["KYC Verification", "Trading capital", "Risk management skills"],
-    "pros": ["Instant M-Pesa withdrawals", "Low spreads", "Unlimited leverage"],
-    "cons": ["High risk of loss", "Requires trading knowledge", "Volatility"],
+    "requirements": [
+      "KYC Verification",
+      "Trading capital",
+      "Risk management skills"
+    ],
+    "pros": [
+      "Instant M-Pesa withdrawals",
+      "Low spreads",
+      "Unlimited leverage"
+    ],
+    "cons": [
+      "High risk of loss",
+      "Requires trading knowledge",
+      "Volatility"
+    ],
     "kenya_specific_tips": "Start with a standard cent account to practice risk management before moving to real currency accounts.",
     "youtube_video_id": "pcE4loLcT1U",
     "affiliate_link": "https://www.exness.com/"
@@ -431,12 +791,28 @@
     "category": "Forex Broker",
     "description": "A multi-award-winning broker with a strong African presence.",
     "detailed_overview": "HFM, formerly HotForex, is a multi-award-winning broker with a strong presence in Africa. It offers a wide range of trading instruments, including forex, commodities, and indices. Kenyans appreciate its local payment options and educational resources.",
-    "payment_methods": ["M-Pesa", "Airtel Money", "Bank"],
+    "payment_methods": [
+      "M-Pesa",
+      "Airtel Money",
+      "Bank"
+    ],
     "minimum_payout": "$5",
     "payout_frequency": "Instant",
-    "requirements": ["KYC", "Proof of residence"],
-    "pros": ["Local payments", "Bonuses", "Education", "Regulated"],
-    "cons": ["Bonus terms can be complex", "Variable spreads", "Customer support delays"],
+    "requirements": [
+      "KYC",
+      "Proof of residence"
+    ],
+    "pros": [
+      "Local payments",
+      "Bonuses",
+      "Education",
+      "Regulated"
+    ],
+    "cons": [
+      "Bonus terms can be complex",
+      "Variable spreads",
+      "Customer support delays"
+    ],
     "kenya_specific_tips": "Read the terms and conditions of any bonus carefully before accepting it to avoid withdrawal issues later.",
     "youtube_video_id": "lDSMxOxM40A",
     "affiliate_link": "https://www.hfm.com/"
@@ -448,12 +824,27 @@
     "category": "Local Forex Broker",
     "description": "A forex broker tailored for the East African market.",
     "detailed_overview": "FxPesa is a forex broker specifically designed for the East African market. It offers seamless M-Pesa and Airtel Money deposits and withdrawals. It is an excellent choice for beginners in Kenya who want local support and easy access to their funds.",
-    "payment_methods": ["M-Pesa", "Airtel Money"],
+    "payment_methods": [
+      "M-Pesa",
+      "Airtel Money"
+    ],
     "minimum_payout": "KES 100",
     "payout_frequency": "Instant",
-    "requirements": ["ID", "M-Pesa number"],
-    "pros": ["Local support", "M-Pesa integration", "Low entry", "Easy to use"],
-    "cons": ["Smaller asset list", "Less global recognition", "Higher spreads"],
+    "requirements": [
+      "ID",
+      "M-Pesa number"
+    ],
+    "pros": [
+      "Local support",
+      "M-Pesa integration",
+      "Low entry",
+      "Easy to use"
+    ],
+    "cons": [
+      "Smaller asset list",
+      "Less global recognition",
+      "Higher spreads"
+    ],
     "kenya_specific_tips": "Take advantage of their local webinars and educational materials to learn trading strategies specific to the Kenyan context.",
     "youtube_video_id": "OSaE00ioFrQ",
     "affiliate_link": "https://fxpesa.com/"
@@ -465,12 +856,27 @@
     "category": "Forex & CFDs",
     "description": "A broker offering diverse trading conditions.",
     "detailed_overview": "Scope Markets is a global broker offering diverse trading conditions suitable for both beginners and professionals. It provides various account types, including ECN and Standard, allowing Kenyan traders to choose based on their strategy.",
-    "payment_methods": ["Crypto", "Cards", "Bank"],
+    "payment_methods": [
+      "Crypto",
+      "Cards",
+      "Bank"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "1-3 days",
-    "requirements": ["KYC", "Proof of address"],
-    "pros": ["Multiple account types", "Good leverage", "Platform variety"],
-    "cons": ["Customer support response time", "Withdrawal fees", "No direct M-Pesa"],
+    "requirements": [
+      "KYC",
+      "Proof of address"
+    ],
+    "pros": [
+      "Multiple account types",
+      "Good leverage",
+      "Platform variety"
+    ],
+    "cons": [
+      "Customer support response time",
+      "Withdrawal fees",
+      "No direct M-Pesa"
+    ],
     "kenya_specific_tips": "Choose the right account type based on your trading style to minimize spreads and maximize profits.",
     "youtube_video_id": "Lt6PnZ9vESc",
     "affiliate_link": "https://scopemarkets.com/"
@@ -482,12 +888,27 @@
     "category": "Premium Forex Broker",
     "description": "An award-winning global forex broker.",
     "detailed_overview": "Pepperstone is an award-winning global forex broker known for its fast execution and tight spreads. It is a favorite among serious Kenyan traders and scalpers who require reliable technology and deep liquidity.",
-    "payment_methods": ["Bank Transfer", "Cards"],
+    "payment_methods": [
+      "Bank Transfer",
+      "Cards"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "1-2 days",
-    "requirements": ["KYC", "Proof of funds"],
-    "pros": ["Excellent execution", "Tight spreads", "Strong regulation", "MetaTrader support"],
-    "cons": ["Higher minimum deposit", "No M-Pesa direct", "Strict compliance"],
+    "requirements": [
+      "KYC",
+      "Proof of funds"
+    ],
+    "pros": [
+      "Excellent execution",
+      "Tight spreads",
+      "Strong regulation",
+      "MetaTrader support"
+    ],
+    "cons": [
+      "Higher minimum deposit",
+      "No M-Pesa direct",
+      "Strict compliance"
+    ],
     "kenya_specific_tips": "Use a Visa card linked to your bank for faster deposits and withdrawals since M-Pesa is not directly supported.",
     "youtube_video_id": "5dOqfKiZC-0",
     "affiliate_link": "https://pepperstone.com/"
@@ -499,12 +920,27 @@
     "category": "Forex & CFDs",
     "description": "A global forex and CFD broker.",
     "detailed_overview": "XM is a global forex and CFD broker known for its excellent customer service and educational webinars. It offers micro accounts, making it accessible for Kenyan beginners who want to start trading with small amounts of capital.",
-    "payment_methods": ["Bank Transfer", "Cards"],
+    "payment_methods": [
+      "Bank Transfer",
+      "Cards"
+    ],
     "minimum_payout": "$20",
     "payout_frequency": "1-2 days",
-    "requirements": ["KYC", "ID verification"],
-    "pros": ["No requotes", "Micro accounts", "Good support", "Educational resources"],
-    "cons": ["Inactivity fees", "Limited crypto options", "Slower withdrawals"],
+    "requirements": [
+      "KYC",
+      "ID verification"
+    ],
+    "pros": [
+      "No requotes",
+      "Micro accounts",
+      "Good support",
+      "Educational resources"
+    ],
+    "cons": [
+      "Inactivity fees",
+      "Limited crypto options",
+      "Slower withdrawals"
+    ],
     "kenya_specific_tips": "Open a Micro account to start trading with very small lot sizes and minimal risk while you learn.",
     "youtube_video_id": "VAgXBem5Nlo",
     "affiliate_link": "https://www.xm.com/"
@@ -516,12 +952,27 @@
     "category": "Binary Options",
     "description": "A platform for trading binary options and digital options.",
     "detailed_overview": "IQ Option is a popular platform for trading binary options and digital options. It offers a user-friendly interface where you predict if the price will go up or down. Note that binary options are high-risk and should be approached with caution.",
-    "payment_methods": ["Cards", "Crypto"],
+    "payment_methods": [
+      "Cards",
+      "Crypto"
+    ],
     "minimum_payout": "$10",
     "payout_frequency": "3 days",
-    "requirements": ["KYC", "Deposit"],
-    "pros": ["User-friendly interface", "Low deposit", "Demo account", "Mobile app"],
-    "cons": ["High risk of total loss", "Gambling-like nature", "Not available in all countries"],
+    "requirements": [
+      "KYC",
+      "Deposit"
+    ],
+    "pros": [
+      "User-friendly interface",
+      "Low deposit",
+      "Demo account",
+      "Mobile app"
+    ],
+    "cons": [
+      "High risk of total loss",
+      "Gambling-like nature",
+      "Not available in all countries"
+    ],
     "kenya_specific_tips": "Treat binary options as high-risk speculation and never invest money you cannot afford to lose.",
     "youtube_video_id": "nkduDrNXER8",
     "affiliate_link": "https://iqoption.com/"
@@ -533,12 +984,28 @@
     "category": "Forex Broker",
     "description": "A global broker with a strong focus on education.",
     "detailed_overview": "FXTM is a global broker with a strong focus on education and trader development. It offers a variety of account types and is well-regulated. Kenyans benefit from its local seminars and educational content.",
-    "payment_methods": ["Bank Transfer", "Cards", "Crypto"],
+    "payment_methods": [
+      "Bank Transfer",
+      "Cards",
+      "Crypto"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "1-5 days",
-    "requirements": ["KYC", "Proof of address"],
-    "pros": ["Strong regulation", "Educational resources", "Multiple platforms", "Local events"],
-    "cons": ["Withdrawal fees", "Customer support delays", "Complex account types"],
+    "requirements": [
+      "KYC",
+      "Proof of address"
+    ],
+    "pros": [
+      "Strong regulation",
+      "Educational resources",
+      "Multiple platforms",
+      "Local events"
+    ],
+    "cons": [
+      "Withdrawal fees",
+      "Customer support delays",
+      "Complex account types"
+    ],
     "kenya_specific_tips": "Participate in their trading contests to practice your skills without risking your own capital.",
     "youtube_video_id": "ylFqqYWIobo",
     "affiliate_link": "https://www.fxtm.com/"
@@ -550,12 +1017,28 @@
     "category": "Forex Broker",
     "description": "A global forex broker with a strong presence in Kenya.",
     "detailed_overview": "OctaFX is a global forex broker with a strong presence in Kenya, known for its social trading features. It allows beginners to copy the trades of experienced professionals, making it easier to start earning without extensive knowledge.",
-    "payment_methods": ["M-Pesa", "Crypto", "Cards"],
+    "payment_methods": [
+      "M-Pesa",
+      "Crypto",
+      "Cards"
+    ],
     "minimum_payout": "$1",
     "payout_frequency": "Instant",
-    "requirements": ["KYC", "Deposit"],
-    "pros": ["Copy trading", "Fast withdrawals", "Low spreads", "M-Pesa support"],
-    "cons": ["Limited regulatory oversight", "Slippage during news", "High leverage risks"],
+    "requirements": [
+      "KYC",
+      "Deposit"
+    ],
+    "pros": [
+      "Copy trading",
+      "Fast withdrawals",
+      "Low spreads",
+      "M-Pesa support"
+    ],
+    "cons": [
+      "Limited regulatory oversight",
+      "Slippage during news",
+      "High leverage risks"
+    ],
     "kenya_specific_tips": "Use the OctaSpace copier to automate your trading if you are too busy to watch the charts all day.",
     "youtube_video_id": "w_myz5DrwLU",
     "affiliate_link": "https://octafx.com/"
@@ -567,12 +1050,28 @@
     "category": "Online Trading",
     "description": "A broker offering forex, commodities, and synthetic indices.",
     "detailed_overview": "Deriv is famous for its 'Synthetic Indices' like Volatility 75, which are very popular among Kenyan traders because they are available 24/7 and are not affected by market news.",
-    "payment_methods": ["M-Pesa", "Airtel Money", "Crypto"],
+    "payment_methods": [
+      "M-Pesa",
+      "Airtel Money",
+      "Crypto"
+    ],
     "minimum_payout": "$5",
     "payout_frequency": "Instant",
-    "requirements": ["ID", "Address proof"],
-    "pros": ["24/7 trading", "Low deposits", "M-Pesa support", "Synthetic indices"],
-    "cons": ["High risk of synthetic indices", "Complex products", "Addictive nature"],
+    "requirements": [
+      "ID",
+      "Address proof"
+    ],
+    "pros": [
+      "24/7 trading",
+      "Low deposits",
+      "M-Pesa support",
+      "Synthetic indices"
+    ],
+    "cons": [
+      "High risk of synthetic indices",
+      "Complex products",
+      "Addictive nature"
+    ],
     "kenya_specific_tips": "Start with a demo account to understand how synthetic indices move before using real money.",
     "youtube_video_id": "eOBHXJkW-Fs",
     "affiliate_link": "https://deriv.com/"
@@ -584,12 +1083,26 @@
     "category": "Forex Broker",
     "description": "A forex broker with low spreads and high leverage.",
     "detailed_overview": "JustForex is a broker that offers low spreads and high leverage, appealing to experienced Kenyan traders. It supports various payment methods including local mobile money.",
-    "payment_methods": ["M-Pesa", "Crypto", "Cards"],
+    "payment_methods": [
+      "M-Pesa",
+      "Crypto",
+      "Cards"
+    ],
     "minimum_payout": "$1",
     "payout_frequency": "Instant",
-    "requirements": ["KYC"],
-    "pros": ["Low spreads", "High leverage", "Local payments"],
-    "cons": ["Less regulation", "Customer support", "Slippage"],
+    "requirements": [
+      "KYC"
+    ],
+    "pros": [
+      "Low spreads",
+      "High leverage",
+      "Local payments"
+    ],
+    "cons": [
+      "Less regulation",
+      "Customer support",
+      "Slippage"
+    ],
     "kenya_specific_tips": "Use strict stop-losses due to the high leverage offered by the platform.",
     "youtube_video_id": "MmpCj8yBjwI",
     "affiliate_link": "https://justforex.com/"
@@ -601,12 +1114,26 @@
     "category": "Forex Broker",
     "description": "A forex broker with a focus on automation.",
     "detailed_overview": "RoboFX is known for its support of automated trading systems (EAs). It is a good choice for Kenyan traders who use algorithmic trading strategies.",
-    "payment_methods": ["M-Pesa", "Crypto", "Cards"],
+    "payment_methods": [
+      "M-Pesa",
+      "Crypto",
+      "Cards"
+    ],
     "minimum_payout": "$1",
     "payout_frequency": "Instant",
-    "requirements": ["KYC"],
-    "pros": ["EA support", "Local payments", "Low deposit"],
-    "cons": ["Niche focus", "Less educational content", "Regulation"],
+    "requirements": [
+      "KYC"
+    ],
+    "pros": [
+      "EA support",
+      "Local payments",
+      "Low deposit"
+    ],
+    "cons": [
+      "Niche focus",
+      "Less educational content",
+      "Regulation"
+    ],
     "kenya_specific_tips": "Test your EAs on a demo account extensively before going live.",
     "youtube_video_id": "xreQTkBrSZ0",
     "affiliate_link": "https://robofx.com/"
@@ -618,12 +1145,26 @@
     "category": "Forex Broker",
     "description": "A long-standing forex broker with global reach.",
     "detailed_overview": "Windsor Brokers is one of the oldest forex brokers, offering a stable trading environment for Kenyans. It is known for its reliability and diverse account types.",
-    "payment_methods": ["Bank Transfer", "Cards", "Crypto"],
+    "payment_methods": [
+      "Bank Transfer",
+      "Cards",
+      "Crypto"
+    ],
     "minimum_payout": "$20",
     "payout_frequency": "1-3 days",
-    "requirements": ["KYC"],
-    "pros": ["Long history", "Reliable", "Multiple accounts"],
-    "cons": ["No direct M-Pesa", "Higher minimums", "Older platform"],
+    "requirements": [
+      "KYC"
+    ],
+    "pros": [
+      "Long history",
+      "Reliable",
+      "Multiple accounts"
+    ],
+    "cons": [
+      "No direct M-Pesa",
+      "Higher minimums",
+      "Older platform"
+    ],
     "kenya_specific_tips": "Use their Zero account for tighter spreads if you are a scalper.",
     "youtube_video_id": "9st2xXI3yk0",
     "affiliate_link": "https://www.windsorbrokers.com/"
@@ -635,12 +1176,25 @@
     "category": "Forex Broker",
     "description": "A broker with a proprietary trading platform.",
     "detailed_overview": "AvaTrade offers a unique proprietary platform alongside MetaTrader. It is a solid choice for Kenyans looking for alternative trading interfaces and tools.",
-    "payment_methods": ["Bank Transfer", "Cards"],
+    "payment_methods": [
+      "Bank Transfer",
+      "Cards"
+    ],
     "minimum_payout": "$50",
     "payout_frequency": "3-5 days",
-    "requirements": ["KYC"],
-    "pros": ["Proprietary platform", "Good education", "Regulated"],
-    "cons": ["Higher minimums", "Slower withdrawals", "Less popular"],
+    "requirements": [
+      "KYC"
+    ],
+    "pros": [
+      "Proprietary platform",
+      "Good education",
+      "Regulated"
+    ],
+    "cons": [
+      "Higher minimums",
+      "Slower withdrawals",
+      "Less popular"
+    ],
     "kenya_specific_tips": "Take advantage of their free educational webinars to improve your trading skills.",
     "youtube_video_id": "rOxYy3T6Jb4",
     "affiliate_link": "https://www.avatrade.com/"
@@ -652,12 +1206,26 @@
     "category": "CFD Trading",
     "description": "A popular CFD trading platform.",
     "detailed_overview": "Plus500 is a well-known CFD trading platform with a user-friendly interface. It is listed on the London Stock Exchange, adding a layer of trust for Kenyan traders.",
-    "payment_methods": ["Cards", "PayPal", "Bank"],
+    "payment_methods": [
+      "Cards",
+      "PayPal",
+      "Bank"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "1-3 days",
-    "requirements": ["KYC"],
-    "pros": ["Easy to use", "Publicly listed", "Wide assets"],
-    "cons": ["No MT4/MT5", "Inactivity fees", "No M-Pesa"],
+    "requirements": [
+      "KYC"
+    ],
+    "pros": [
+      "Easy to use",
+      "Publicly listed",
+      "Wide assets"
+    ],
+    "cons": [
+      "No MT4/MT5",
+      "Inactivity fees",
+      "No M-Pesa"
+    ],
     "kenya_specific_tips": "Be aware of inactivity fees if you do not trade for a prolonged period.",
     "youtube_video_id": "jqMvS9uYkHw",
     "affiliate_link": "https://www.plus500.com/"
@@ -669,12 +1237,26 @@
     "category": "Social Trading",
     "description": "A social trading platform for copying investors.",
     "detailed_overview": "eToro is famous for its CopyTrader feature, allowing Kenyans to automatically copy the trades of successful investors. It is a great way for beginners to learn and earn simultaneously.",
-    "payment_methods": ["Cards", "PayPal", "Bank"],
+    "payment_methods": [
+      "Cards",
+      "PayPal",
+      "Bank"
+    ],
     "minimum_payout": "$30",
     "payout_frequency": "3-5 days",
-    "requirements": ["KYC"],
-    "pros": ["Social trading", "User-friendly", "Stocks and Crypto"],
-    "cons": ["High spreads", "No MT4", "Withdrawal fees"],
+    "requirements": [
+      "KYC"
+    ],
+    "pros": [
+      "Social trading",
+      "User-friendly",
+      "Stocks and Crypto"
+    ],
+    "cons": [
+      "High spreads",
+      "No MT4",
+      "Withdrawal fees"
+    ],
     "kenya_specific_tips": "Research the risk score of traders before copying them to ensure it matches your risk tolerance.",
     "youtube_video_id": "TCsdnMX-SEU",
     "affiliate_link": "https://www.etoro.com/"
@@ -686,12 +1268,25 @@
     "category": "Blockchain Platform",
     "description": "A high-performance blockchain platform.",
     "detailed_overview": "Avalanche is a high-speed blockchain platform that allows for the creation of decentralized apps. Kenyans can earn by staking AVAX tokens or participating in DeFi projects on the network.",
-    "payment_methods": ["Crypto Wallet"],
+    "payment_methods": [
+      "Crypto Wallet"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Instant",
-    "requirements": ["Crypto wallet", "AVAX tokens"],
-    "pros": ["High speed", "Low fees", "Staking rewards"],
-    "cons": ["Volatility", "Technical knowledge", "Risk of hacks"],
+    "requirements": [
+      "Crypto wallet",
+      "AVAX tokens"
+    ],
+    "pros": [
+      "High speed",
+      "Low fees",
+      "Staking rewards"
+    ],
+    "cons": [
+      "Volatility",
+      "Technical knowledge",
+      "Risk of hacks"
+    ],
     "kenya_specific_tips": "Use a hardware wallet like Ledger to store your AVAX tokens securely.",
     "youtube_video_id": "YE0jdfUq2mc",
     "affiliate_link": "https://www.avax.network/"
@@ -703,12 +1298,29 @@
     "category": "Cryptocurrency Exchange",
     "description": "The world's largest cryptocurrency exchange.",
     "detailed_overview": "Binance is the world's largest cryptocurrency exchange by trading volume. It provides a comprehensive platform for Kenyans to buy, sell, and trade cryptocurrencies like Bitcoin and USDT. Its P2P market is widely used in Kenya for M-Pesa transactions.",
-    "payment_methods": ["P2P (M-Pesa)", "Bank Transfer", "Crypto"],
+    "payment_methods": [
+      "P2P (M-Pesa)",
+      "Bank Transfer",
+      "Crypto"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Instant",
-    "requirements": ["KYC", "Smartphone", "Internet"],
-    "pros": ["High liquidity", "P2P market", "Low fees", "Many coins"],
-    "cons": ["Regulatory uncertainty", "Volatility", "Complex interface"],
+    "requirements": [
+      "KYC",
+      "Smartphone",
+      "Internet"
+    ],
+    "pros": [
+      "High liquidity",
+      "P2P market",
+      "Low fees",
+      "Many coins"
+    ],
+    "cons": [
+      "Regulatory uncertainty",
+      "Volatility",
+      "Complex interface"
+    ],
     "kenya_specific_tips": "Use the P2P section to buy USDT directly from other Kenyans using M-Pesa. Always check the trader's completion rate.",
     "youtube_video_id": "J5VI9lWvVx4",
     "affiliate_link": "https://www.binance.com/"
@@ -720,12 +1332,28 @@
     "category": "Cryptocurrency Exchange",
     "description": "A user-friendly platform for buying and selling crypto.",
     "detailed_overview": "Coinbase is a user-friendly cryptocurrency exchange known for its security and ease of use. It is a great starting point for Kenyan beginners who want to invest in Bitcoin or Ethereum without dealing with complex trading interfaces.",
-    "payment_methods": ["Card", "Bank Transfer"],
+    "payment_methods": [
+      "Card",
+      "Bank Transfer"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Instant",
-    "requirements": ["KYC", "ID", "Proof of address"],
-    "pros": ["Very secure", "Easy to use", "Publicly traded company", "Learn and earn"],
-    "cons": ["Higher fees than Binance", "Fewer altcoins", "Limited P2P"],
+    "requirements": [
+      "KYC",
+      "ID",
+      "Proof of address"
+    ],
+    "pros": [
+      "Very secure",
+      "Easy to use",
+      "Publicly traded company",
+      "Learn and earn"
+    ],
+    "cons": [
+      "Higher fees than Binance",
+      "Fewer altcoins",
+      "Limited P2P"
+    ],
     "kenya_specific_tips": "Use Coinbase Learn to earn small amounts of crypto while learning about different blockchain projects.",
     "youtube_video_id": "qz0i7WDmbMg",
     "affiliate_link": "https://www.coinbase.com/"
@@ -737,12 +1365,27 @@
     "category": "Crypto Derivatives",
     "description": "A leading crypto exchange for derivatives and spot trading.",
     "detailed_overview": "Bybit is a leading cryptocurrency exchange focused on derivatives and spot trading. It is popular among Kenyan traders for its advanced trading tools, high leverage, and copy trading features.",
-    "payment_methods": ["P2P", "Crypto Deposit"],
+    "payment_methods": [
+      "P2P",
+      "Crypto Deposit"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Instant",
-    "requirements": ["KYC for higher limits", "Trading experience"],
-    "pros": ["Advanced trading tools", "High leverage", "Copy trading", "Low fees"],
-    "cons": ["Not available in some regions", "Complex for beginners", "High risk"],
+    "requirements": [
+      "KYC for higher limits",
+      "Trading experience"
+    ],
+    "pros": [
+      "Advanced trading tools",
+      "High leverage",
+      "Copy trading",
+      "Low fees"
+    ],
+    "cons": [
+      "Not available in some regions",
+      "Complex for beginners",
+      "High risk"
+    ],
     "kenya_specific_tips": "Use Bybit's P2P platform for competitive USDT rates in Kenya and explore the copy trading feature.",
     "youtube_video_id": "u-bmLrXLes4",
     "affiliate_link": "https://www.bybit.com/"
@@ -754,12 +1397,28 @@
     "category": "Altcoin Exchange",
     "description": "The people's exchange with a wide variety of altcoins.",
     "detailed_overview": "KuCoin is known as 'the people's exchange' because it lists a wide variety of altcoins early. It is a favorite for Kenyan crypto enthusiasts who want to invest in new and emerging tokens before they hit major exchanges.",
-    "payment_methods": ["P2P", "Card", "Crypto"],
+    "payment_methods": [
+      "P2P",
+      "Card",
+      "Crypto"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Instant",
-    "requirements": ["KYC Level 1", "Wallet security"],
-    "pros": ["Huge selection of coins", "Low trading fees", "Trading bots", "Earn products"],
-    "cons": ["Customer support can be slow", "Regulatory scrutiny", "Less liquid"],
+    "requirements": [
+      "KYC Level 1",
+      "Wallet security"
+    ],
+    "pros": [
+      "Huge selection of coins",
+      "Low trading fees",
+      "Trading bots",
+      "Earn products"
+    ],
+    "cons": [
+      "Customer support can be slow",
+      "Regulatory scrutiny",
+      "Less liquid"
+    ],
     "kenya_specific_tips": "Explore the 'KuCoin Earn' section for passive income on your holdings and use trading bots for automated strategies.",
     "youtube_video_id": "NbfF854rSsA",
     "affiliate_link": "https://www.kucoin.com/"
@@ -771,12 +1430,27 @@
     "category": "Web3 & Crypto",
     "description": "A comprehensive crypto platform with a powerful Web3 wallet.",
     "detailed_overview": "OKX is a comprehensive crypto platform that combines a centralized exchange with a powerful decentralized Web3 wallet. It offers low fees, an NFT marketplace, and DeFi access, making it a versatile tool for Kenyan crypto users.",
-    "payment_methods": ["P2P", "Card"],
+    "payment_methods": [
+      "P2P",
+      "Card"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Instant",
-    "requirements": ["KYC", "Web3 knowledge"],
-    "pros": ["All-in-one platform", "NFT marketplace", "Low fees", "Web3 wallet"],
-    "cons": ["Interface can be overwhelming", "Restricted in some countries", "Complex"],
+    "requirements": [
+      "KYC",
+      "Web3 knowledge"
+    ],
+    "pros": [
+      "All-in-one platform",
+      "NFT marketplace",
+      "Low fees",
+      "Web3 wallet"
+    ],
+    "cons": [
+      "Interface can be overwhelming",
+      "Restricted in some countries",
+      "Complex"
+    ],
     "kenya_specific_tips": "Use the OKX Web3 wallet to explore DeFi opportunities safely and bridge assets between different blockchains.",
     "youtube_video_id": "7GBJwi4esaI",
     "affiliate_link": "https://www.okx.com/"
@@ -788,12 +1462,27 @@
     "category": "Crypto Wallet",
     "description": "A decentralized mobile wallet for cryptocurrencies.",
     "detailed_overview": "Trust Wallet is a decentralized mobile wallet that allows you to store your crypto securely and interact with DeFi applications. It is essential for Kenyans who want full control over their digital assets without relying on an exchange.",
-    "payment_methods": ["N/A (Self-custody)"],
+    "payment_methods": [
+      "N/A (Self-custody)"
+    ],
     "minimum_payout": "N/A",
     "payout_frequency": "N/A",
-    "requirements": ["Smartphone", "Secret phrase security", "Backup"],
-    "pros": ["Full control of funds", "Supports many coins", "DeFi integration", "Easy to use"],
-    "cons": ["No password recovery", "Risk of phishing", "User responsibility"],
+    "requirements": [
+      "Smartphone",
+      "Secret phrase security",
+      "Backup"
+    ],
+    "pros": [
+      "Full control of funds",
+      "Supports many coins",
+      "DeFi integration",
+      "Easy to use"
+    ],
+    "cons": [
+      "No password recovery",
+      "Risk of phishing",
+      "User responsibility"
+    ],
     "kenya_specific_tips": "Never share your 12-word recovery phrase with anyone, even if they claim to be support staff. Write it down and keep it safe.",
     "youtube_video_id": "jBCXf8yylQA",
     "affiliate_link": "https://trustwallet.com/"
@@ -805,12 +1494,26 @@
     "category": "Web3 Wallet",
     "description": "The most popular wallet for interacting with Ethereum and DeFi.",
     "detailed_overview": "MetaMask is the most popular browser extension and mobile wallet for interacting with Ethereum and other EVM-compatible blockchains. It is the gateway to DeFi, NFTs, and dApps for Kenyan users.",
-    "payment_methods": ["N/A (Self-custody)"],
+    "payment_methods": [
+      "N/A (Self-custody)"
+    ],
     "minimum_payout": "N/A",
     "payout_frequency": "N/A",
-    "requirements": ["Browser extension or Mobile app", "ETH for gas"],
-    "pros": ["Industry standard", "Wide dApp support", "Customizable", "Secure"],
-    "cons": ["Complex for beginners", "High gas fees on Ethereum", "Phishing risks"],
+    "requirements": [
+      "Browser extension or Mobile app",
+      "ETH for gas"
+    ],
+    "pros": [
+      "Industry standard",
+      "Wide dApp support",
+      "Customizable",
+      "Secure"
+    ],
+    "cons": [
+      "Complex for beginners",
+      "High gas fees on Ethereum",
+      "Phishing risks"
+    ],
     "kenya_specific_tips": "Use MetaMask to explore lower-fee networks like Polygon or Binance Smart Chain to save on transaction costs.",
     "youtube_video_id": "vSgDU2rfqo0",
     "affiliate_link": "https://metamask.io/"
@@ -822,12 +1525,26 @@
     "category": "Hardware Wallet",
     "description": "The gold standard for secure crypto storage.",
     "detailed_overview": "Ledger is the gold standard for hardware wallets, keeping your private keys offline to protect against online hacks. For Kenyans holding significant crypto assets, a Ledger device is a crucial investment for long-term security.",
-    "payment_methods": ["N/A (Hardware)"],
+    "payment_methods": [
+      "N/A (Hardware)"
+    ],
     "minimum_payout": "N/A",
     "payout_frequency": "N/A",
-    "requirements": ["Purchase of device", "Computer/Phone"],
-    "pros": ["Maximum security", "Supports 5000+ coins", "Easy to use app", "Offline storage"],
-    "cons": ["Costs money to buy", "Physical device can be lost", "Shipping to Kenya"],
+    "requirements": [
+      "Purchase of device",
+      "Computer/Phone"
+    ],
+    "pros": [
+      "Maximum security",
+      "Supports 5000+ coins",
+      "Easy to use app",
+      "Offline storage"
+    ],
+    "cons": [
+      "Costs money to buy",
+      "Physical device can be lost",
+      "Shipping to Kenya"
+    ],
     "kenya_specific_tips": "Only buy Ledger devices from authorized sellers to avoid tampered units. Register your device immediately upon receipt.",
     "youtube_video_id": "Hfe5FuldvqU",
     "affiliate_link": "https://www.ledger.com/"
@@ -839,12 +1556,25 @@
     "category": "Crypto Exchange",
     "description": "A comprehensive crypto platform with a visa card.",
     "detailed_overview": "Crypto.com offers a wide range of crypto services, including a popular Visa card that allows Kenyans to spend their crypto. It is known for its aggressive marketing and user-friendly app.",
-    "payment_methods": ["Card", "Bank Transfer"],
+    "payment_methods": [
+      "Card",
+      "Bank Transfer"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Instant",
-    "requirements": ["KYC"],
-    "pros": ["Visa card", "Cashback", "Easy to use"],
-    "cons": ["High fees", "Limited availability", "Customer support"],
+    "requirements": [
+      "KYC"
+    ],
+    "pros": [
+      "Visa card",
+      "Cashback",
+      "Easy to use"
+    ],
+    "cons": [
+      "High fees",
+      "Limited availability",
+      "Customer support"
+    ],
     "kenya_specific_tips": "Check if the Visa card is currently available for issuance in Kenya before signing up.",
     "youtube_video_id": "bec-WpMYXps",
     "affiliate_link": "https://crypto.com/"
@@ -856,12 +1586,25 @@
     "category": "Crypto Exchange",
     "description": "A secure and reputable crypto exchange.",
     "detailed_overview": "Kraken is one of the oldest and most secure crypto exchanges. It is a good choice for Kenyans who prioritize security and regulatory compliance over a wide variety of altcoins.",
-    "payment_methods": ["Bank Transfer", "Card"],
+    "payment_methods": [
+      "Bank Transfer",
+      "Card"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "1-3 days",
-    "requirements": ["KYC"],
-    "pros": ["High security", "Reputable", "Good support"],
-    "cons": ["Higher fees", "Fewer coins", "No M-Pesa"],
+    "requirements": [
+      "KYC"
+    ],
+    "pros": [
+      "High security",
+      "Reputable",
+      "Good support"
+    ],
+    "cons": [
+      "Higher fees",
+      "Fewer coins",
+      "No M-Pesa"
+    ],
     "kenya_specific_tips": "Use Kraken for long-term holding of major cryptocurrencies like Bitcoin and Ethereum.",
     "youtube_video_id": "lfN5JCrDhl4",
     "affiliate_link": "https://www.kraken.com/"
@@ -873,12 +1616,25 @@
     "category": "Crypto Exchange",
     "description": "A regulated crypto exchange founded by the Winklevoss twins.",
     "detailed_overview": "Gemini is a highly regulated crypto exchange that focuses on compliance and security. It is a trusted option for Kenyans who want to invest in crypto through a fully licensed platform.",
-    "payment_methods": ["Bank Transfer", "Card"],
+    "payment_methods": [
+      "Bank Transfer",
+      "Card"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "1-3 days",
-    "requirements": ["KYC"],
-    "pros": ["Highly regulated", "Secure", "Insurance"],
-    "cons": ["Limited coins", "Higher fees", "No M-Pesa"],
+    "requirements": [
+      "KYC"
+    ],
+    "pros": [
+      "Highly regulated",
+      "Secure",
+      "Insurance"
+    ],
+    "cons": [
+      "Limited coins",
+      "Higher fees",
+      "No M-Pesa"
+    ],
     "kenya_specific_tips": "Use Gemini for large transactions where security is the top priority.",
     "youtube_video_id": "UmxytLZNZ0E",
     "affiliate_link": "https://www.gemini.com/"
@@ -890,12 +1646,25 @@
     "category": "Crypto Broker",
     "description": "A European crypto broker with many assets.",
     "detailed_overview": "Bitpanda is a European crypto broker that allows users to buy crypto, stocks, and commodities. It is a good option for Kenyans who want to diversify their portfolio beyond just crypto.",
-    "payment_methods": ["Card", "Bank Transfer"],
+    "payment_methods": [
+      "Card",
+      "Bank Transfer"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Instant",
-    "requirements": ["KYC"],
-    "pros": ["Many assets", "Easy to use", "Regulated"],
-    "cons": ["High fees", "No M-Pesa", "Limited availability"],
+    "requirements": [
+      "KYC"
+    ],
+    "pros": [
+      "Many assets",
+      "Easy to use",
+      "Regulated"
+    ],
+    "cons": [
+      "High fees",
+      "No M-Pesa",
+      "Limited availability"
+    ],
     "kenya_specific_tips": "Compare fees with other platforms before making large purchases.",
     "youtube_video_id": "EevBKPC1pMA",
     "affiliate_link": "https://www.bitpanda.com/"
@@ -907,12 +1676,26 @@
     "category": "P2P Exchange",
     "description": "A P2P platform for buying and selling Bitcoin.",
     "detailed_overview": "LocalBitcoins is a peer-to-peer platform that connects Bitcoin buyers and sellers. It was very popular in Kenya for M-Pesa transactions, though its usage has declined in favor of Binance P2P.",
-    "payment_methods": ["M-Pesa", "Cash", "Bank"],
+    "payment_methods": [
+      "M-Pesa",
+      "Cash",
+      "Bank"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Instant",
-    "requirements": ["Account"],
-    "pros": ["Privacy", "M-Pesa support", "Direct deals"],
-    "cons": ["High fees", "Scam risks", "Declining volume"],
+    "requirements": [
+      "Account"
+    ],
+    "pros": [
+      "Privacy",
+      "M-Pesa support",
+      "Direct deals"
+    ],
+    "cons": [
+      "High fees",
+      "Scam risks",
+      "Declining volume"
+    ],
     "kenya_specific_tips": "Always trade with users who have a high feedback score and completed trades.",
     "youtube_video_id": "NgUzZIGM6WY",
     "affiliate_link": "https://localbitcoins.com/"
@@ -924,12 +1707,26 @@
     "category": "P2P Exchange",
     "description": "A P2P marketplace for buying and selling crypto.",
     "detailed_overview": "Paxful is a P2P marketplace that supports hundreds of payment methods, including M-Pesa. It is a viable alternative to Binance P2P for Kenyans looking to buy USDT or Bitcoin.",
-    "payment_methods": ["M-Pesa", "Airtel Money", "Gift Cards"],
+    "payment_methods": [
+      "M-Pesa",
+      "Airtel Money",
+      "Gift Cards"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Instant",
-    "requirements": ["Account"],
-    "pros": ["Many payment methods", "M-Pesa support", "Global"],
-    "cons": ["High fees", "Scam risks", "Customer support"],
+    "requirements": [
+      "Account"
+    ],
+    "pros": [
+      "Many payment methods",
+      "M-Pesa support",
+      "Global"
+    ],
+    "cons": [
+      "High fees",
+      "Scam risks",
+      "Customer support"
+    ],
     "kenya_specific_tips": "Use escrow for all trades and never release crypto until you have confirmed payment in your M-Pesa account.",
     "youtube_video_id": "ikywsFeZk9o",
     "affiliate_link": "https://paxful.com/"
@@ -941,12 +1738,28 @@
     "category": "Investment Platform",
     "description": "An automated investment platform for Africans.",
     "detailed_overview": "Risevest is an automated investment platform that allows Kenyans to invest in dollar-denominated assets like US stocks, real estate, and fixed income. It helps protect wealth from shilling depreciation.",
-    "payment_methods": ["Card", "Bank Transfer"],
+    "payment_methods": [
+      "Card",
+      "Bank Transfer"
+    ],
     "minimum_payout": "$10",
     "payout_frequency": "Varies by asset",
-    "requirements": ["KYC", "Initial deposit", "Bank account"],
-    "pros": ["Dollar investments", "Automated portfolios", "Regulated", "Low entry"],
-    "cons": ["Management fees", "Market risk", "Lock-in periods"],
+    "requirements": [
+      "KYC",
+      "Initial deposit",
+      "Bank account"
+    ],
+    "pros": [
+      "Dollar investments",
+      "Automated portfolios",
+      "Regulated",
+      "Low entry"
+    ],
+    "cons": [
+      "Management fees",
+      "Market risk",
+      "Lock-in periods"
+    ],
     "kenya_specific_tips": "Start with the 'Stable' portfolio if you are risk-averse and want steady growth over time without volatility.",
     "youtube_video_id": "wxzwmog479c",
     "affiliate_link": "https://risevest.com/"
@@ -958,12 +1771,28 @@
     "category": "Stock Trading",
     "description": "An app for investing in US and Nigerian stocks.",
     "detailed_overview": "Bamboo is an investment app that makes it easy for Kenyans to buy shares in US companies like Apple, Tesla, and Amazon. It simplifies the process of international stock trading with a user-friendly interface.",
-    "payment_methods": ["Card", "Bank Transfer"],
+    "payment_methods": [
+      "Card",
+      "Bank Transfer"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Instant (Sell)",
-    "requirements": ["ID Verification", "Funding", "KRA Pin"],
-    "pros": ["Fractional shares", "Easy interface", "Educational content", "US Stocks"],
-    "cons": ["FX fees", "Limited asset class", "Withdrawal times"],
+    "requirements": [
+      "ID Verification",
+      "Funding",
+      "KRA Pin"
+    ],
+    "pros": [
+      "Fractional shares",
+      "Easy interface",
+      "Educational content",
+      "US Stocks"
+    ],
+    "cons": [
+      "FX fees",
+      "Limited asset class",
+      "Withdrawal times"
+    ],
     "kenya_specific_tips": "Use Bamboo to diversify your portfolio beyond the Nairobi Securities Exchange (NSE) and gain exposure to the US market.",
     "youtube_video_id": "S_NEY3FaV4w",
     "affiliate_link": "https://investbamboo.com/"
@@ -975,12 +1804,28 @@
     "category": "Wealth Management",
     "description": "A digital wealth manager for Kenyans.",
     "detailed_overview": "Ndovu is a digital wealth manager that creates personalized investment portfolios for Kenyans based on their goals and risk tolerance. It invests in both local and international markets, providing professional management.",
-    "payment_methods": ["M-Pesa", "Bank Transfer"],
+    "payment_methods": [
+      "M-Pesa",
+      "Bank Transfer"
+    ],
     "minimum_payout": "KES 100",
     "payout_frequency": "Anytime",
-    "requirements": ["ID", "KRA Pin", "Bank account"],
-    "pros": ["Professional management", "Low entry point", "Diversification", "Regulated"],
-    "cons": ["Management fees", "Market volatility", "Long-term focus"],
+    "requirements": [
+      "ID",
+      "KRA Pin",
+      "Bank account"
+    ],
+    "pros": [
+      "Professional management",
+      "Low entry point",
+      "Diversification",
+      "Regulated"
+    ],
+    "cons": [
+      "Management fees",
+      "Market volatility",
+      "Long-term focus"
+    ],
     "kenya_specific_tips": "Use Ndovu for long-term goals like education or retirement rather than short-term trading.",
     "youtube_video_id": "8GtwYn6PIDM",
     "affiliate_link": "https://ndovu.co.ke/"
@@ -992,12 +1837,27 @@
     "category": "Savings & Investment",
     "description": "A social savings and investment app.",
     "detailed_overview": "Chumz is a social savings and investment app that digitizes the traditional Kenyan 'chama'. It allows groups of friends or family to save and invest together, providing transparency and automation.",
-    "payment_methods": ["M-Pesa"],
+    "payment_methods": [
+      "M-Pesa"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Varies",
-    "requirements": ["Group creation", "M-Pesa", "ID"],
-    "pros": ["Social accountability", "Automated contributions", "Investment options", "Transparency"],
-    "cons": ["Group dynamics issues", "Platform fees", "Dependency on members"],
+    "requirements": [
+      "Group creation",
+      "M-Pesa",
+      "ID"
+    ],
+    "pros": [
+      "Social accountability",
+      "Automated contributions",
+      "Investment options",
+      "Transparency"
+    ],
+    "cons": [
+      "Group dynamics issues",
+      "Platform fees",
+      "Dependency on members"
+    ],
     "kenya_specific_tips": "Set clear rules for your chama within the app to avoid disputes and ensure consistent contributions.",
     "youtube_video_id": "HHeuIoJvZNU",
     "affiliate_link": "https://chumz.co.ke/"
@@ -1009,12 +1869,25 @@
     "category": "Digital Lending",
     "description": "A digital lending app for Kenyans.",
     "detailed_overview": "Branch is a digital lending app that provides quick loans to Kenyans. While it is a debt product, responsible use can help build credit history for future business investments.",
-    "payment_methods": ["M-Pesa"],
+    "payment_methods": [
+      "M-Pesa"
+    ],
     "minimum_payout": "N/A",
     "payout_frequency": "Instant",
-    "requirements": ["Smartphone", "M-Pesa history"],
-    "pros": ["Quick access", "No collateral", "Builds credit"],
-    "cons": ["High interest", "Privacy concerns", "Debt trap"],
+    "requirements": [
+      "Smartphone",
+      "M-Pesa history"
+    ],
+    "pros": [
+      "Quick access",
+      "No collateral",
+      "Builds credit"
+    ],
+    "cons": [
+      "High interest",
+      "Privacy concerns",
+      "Debt trap"
+    ],
     "kenya_specific_tips": "Only borrow what you can repay on time to avoid damaging your credit score.",
     "youtube_video_id": "oOnYJrgf2VE",
     "affiliate_link": "https://branch.co/"
@@ -1026,12 +1899,25 @@
     "category": "Digital Lending",
     "description": "A mobile app providing instant loans.",
     "detailed_overview": "Tala is a popular mobile lending app in Kenya that uses smartphone data to determine creditworthiness. It provides quick cash for emergencies or small business needs.",
-    "payment_methods": ["M-Pesa"],
+    "payment_methods": [
+      "M-Pesa"
+    ],
     "minimum_payout": "N/A",
     "payout_frequency": "Instant",
-    "requirements": ["Android phone", "M-Pesa"],
-    "pros": ["Fast approval", "No paperwork", "Flexible"],
-    "cons": ["High interest", "Short terms", "Data privacy"],
+    "requirements": [
+      "Android phone",
+      "M-Pesa"
+    ],
+    "pros": [
+      "Fast approval",
+      "No paperwork",
+      "Flexible"
+    ],
+    "cons": [
+      "High interest",
+      "Short terms",
+      "Data privacy"
+    ],
     "kenya_specific_tips": "Use Tala for short-term cash flow gaps in your business, not for long-term financing.",
     "youtube_video_id": "uzxGV9Rdjac",
     "affiliate_link": "https://tala.co/"
@@ -1043,12 +1929,25 @@
     "category": "Digital Lending",
     "description": "A digital lending platform in Kenya.",
     "detailed_overview": "Zenka is another digital lending platform in Kenya that offers quick loans. It is known for its flexible repayment options and accessibility.",
-    "payment_methods": ["M-Pesa"],
+    "payment_methods": [
+      "M-Pesa"
+    ],
     "minimum_payout": "N/A",
     "payout_frequency": "Instant",
-    "requirements": ["ID", "M-Pesa"],
-    "pros": ["Quick disbursement", "Flexible", "Accessible"],
-    "cons": ["Interest rates", "Late fees", "Privacy"],
+    "requirements": [
+      "ID",
+      "M-Pesa"
+    ],
+    "pros": [
+      "Quick disbursement",
+      "Flexible",
+      "Accessible"
+    ],
+    "cons": [
+      "Interest rates",
+      "Late fees",
+      "Privacy"
+    ],
     "kenya_specific_tips": "Read the terms carefully to understand the interest rates and late payment penalties.",
     "youtube_video_id": "wY3iVL-TYek",
     "affiliate_link": "https://zenka.co.ke/"
@@ -1060,12 +1959,29 @@
     "category": "AI Data Annotation",
     "description": "A platform for completing micro-tasks that help train AI systems.",
     "detailed_overview": "Remotasks is a leading platform for AI data annotation, allowing Kenyans to earn money by labeling images, transcribing audio, and categorizing text. It provides free training and has been a popular entry point for many into the AI economy.",
-    "payment_methods": ["AirTM", "PayPal", "Crypto"],
+    "payment_methods": [
+      "AirTM",
+      "PayPal",
+      "Crypto"
+    ],
     "minimum_payout": "$10",
     "payout_frequency": "Weekly",
-    "requirements": ["Attention to detail", "Basic computer literacy", "Training completion"],
-    "pros": ["No prior experience needed", "Free training", "Global community", "High demand"],
-    "cons": ["Low pay for basic tasks", "Account deactivation risks", "Payment delays"],
+    "requirements": [
+      "Attention to detail",
+      "Basic computer literacy",
+      "Training completion"
+    ],
+    "pros": [
+      "No prior experience needed",
+      "Free training",
+      "Global community",
+      "High demand"
+    ],
+    "cons": [
+      "Low pay for basic tasks",
+      "Account deactivation risks",
+      "Payment delays"
+    ],
     "kenya_specific_tips": "Many Kenyan users prefer using AirTM to convert their earnings into M-Pesa due to its reliability and lower fees.",
     "youtube_video_id": "7-9qWQUP_vk",
     "affiliate_link": "https://www.remotasks.com/"
@@ -1077,12 +1993,28 @@
     "category": "AI & Localization",
     "description": "A global company providing AI training and localization services.",
     "detailed_overview": "Lionbridge (now part of Telus International) is a global leader in AI training and localization. It offers remote opportunities for Kenyans in search engine evaluation, map analysis, and language transcription.",
-    "payment_methods": ["Payoneer", "Hyperwallet"],
+    "payment_methods": [
+      "Payoneer",
+      "Hyperwallet"
+    ],
     "minimum_payout": "$10",
     "payout_frequency": "Monthly",
-    "requirements": ["Fluent English", "Cultural knowledge", "Exam passing"],
-    "pros": ["Professional work", "Good pay rates", "Remote flexibility", "Prestigious"],
-    "cons": ["Hard to get accepted", "Complex guidelines", "Project-based work"],
+    "requirements": [
+      "Fluent English",
+      "Cultural knowledge",
+      "Exam passing"
+    ],
+    "pros": [
+      "Professional work",
+      "Good pay rates",
+      "Remote flexibility",
+      "Prestigious"
+    ],
+    "cons": [
+      "Hard to get accepted",
+      "Complex guidelines",
+      "Project-based work"
+    ],
     "kenya_specific_tips": "Look for 'Rater' or 'Evaluator' positions which are frequently opened for Kenyan residents.",
     "youtube_video_id": "6_9wg4lRX-w",
     "affiliate_link": "https://lionbridge.com/"
@@ -1094,12 +2026,28 @@
     "category": "AI Data Services",
     "description": "A global leader in data annotation and collection for AI.",
     "detailed_overview": "Appen is a global leader in data annotation and collection for AI. It connects Kenyans with projects that help machine learning models understand language, images, and audio. It offers flexible, remote work opportunities.",
-    "payment_methods": ["Payoneer", "Bank Transfer"],
+    "payment_methods": [
+      "Payoneer",
+      "Bank Transfer"
+    ],
     "minimum_payout": "$10",
     "payout_frequency": "Monthly",
-    "requirements": ["Project-specific qualifications", "Reliable internet", "Attention to detail"],
-    "pros": ["Variety of projects", "Flexible hours", "Global reach", "Reputable"],
-    "cons": ["Inconsistent work availability", "Complex application process", "Slow onboarding"],
+    "requirements": [
+      "Project-specific qualifications",
+      "Reliable internet",
+      "Attention to detail"
+    ],
+    "pros": [
+      "Variety of projects",
+      "Flexible hours",
+      "Global reach",
+      "Reputable"
+    ],
+    "cons": [
+      "Inconsistent work availability",
+      "Complex application process",
+      "Slow onboarding"
+    ],
     "kenya_specific_tips": "Keep your profile updated with new skills and certifications to qualify for more high-paying projects.",
     "youtube_video_id": "REwxiUWV1tg",
     "affiliate_link": "https://appen.com/"
@@ -1111,12 +2059,28 @@
     "category": "AI & Data Solutions",
     "description": "A leading provider of AI data solutions.",
     "detailed_overview": "Telus International (formerly Lionbridge) hires remote workers for AI data annotation, search evaluation, and content moderation. It is a reputable employer for Kenyans seeking stable remote work.",
-    "payment_methods": ["Payoneer", "Bank Transfer"],
+    "payment_methods": [
+      "Payoneer",
+      "Bank Transfer"
+    ],
     "minimum_payout": "$10",
     "payout_frequency": "Monthly",
-    "requirements": ["Exams", "English skills", "Reliability"],
-    "pros": ["Stable work", "Good pay", "Reputable", "Remote"],
-    "cons": ["Hard to get in", "Strict quality", "Project changes"],
+    "requirements": [
+      "Exams",
+      "English skills",
+      "Reliability"
+    ],
+    "pros": [
+      "Stable work",
+      "Good pay",
+      "Reputable",
+      "Remote"
+    ],
+    "cons": [
+      "Hard to get in",
+      "Strict quality",
+      "Project changes"
+    ],
     "kenya_specific_tips": "Prepare thoroughly for the qualification exams as they are the gatekeepers to high-paying projects.",
     "youtube_video_id": "Xvm8tzwy-NY",
     "affiliate_link": "https://www.telusinternational.com/"
@@ -1128,12 +2092,28 @@
     "category": "Micro-tasks & AI",
     "description": "Clickworker offers micro-jobs and AI training tasks.",
     "detailed_overview": "Clickworker is a German-based platform that offers micro-jobs and AI training tasks. It is known for its integration with UHRS (Universal Human Relevance System), which provides a steady stream of tasks for qualified Kenyan users.",
-    "payment_methods": ["Payoneer", "PayPal"],
+    "payment_methods": [
+      "Payoneer",
+      "PayPal"
+    ],
     "minimum_payout": "$5 (Payoneer)",
     "payout_frequency": "Weekly",
-    "requirements": ["Pass assessment tests", "Good English skills", "UHRS qualification"],
-    "pros": ["Steady work via UHRS", "Reliable payments", "Global community", "Flexible"],
-    "cons": ["Assessment tests are difficult", "Account bans for low quality", "Complex setup"],
+    "requirements": [
+      "Pass assessment tests",
+      "Good English skills",
+      "UHRS qualification"
+    ],
+    "pros": [
+      "Steady work via UHRS",
+      "Reliable payments",
+      "Global community",
+      "Flexible"
+    ],
+    "cons": [
+      "Assessment tests are difficult",
+      "Account bans for low quality",
+      "Complex setup"
+    ],
     "kenya_specific_tips": "Take the UHRS assessment seriously; it is the key to unlocking the highest-paying tasks on the platform.",
     "youtube_video_id": "LRAaU0z7CKo",
     "affiliate_link": "https://www.clickworker.com/"
@@ -1145,12 +2125,26 @@
     "category": "AI Data Collection",
     "description": "A platform for AI data collection and annotation.",
     "detailed_overview": "OneForma is a platform by Centific that offers AI data collection projects. Kenyans can participate in surveys, transcription, and data annotation tasks. It is known for its diverse project types.",
-    "payment_methods": ["Payoneer", "PayPal"],
+    "payment_methods": [
+      "Payoneer",
+      "PayPal"
+    ],
     "minimum_payout": "$50",
     "payout_frequency": "Monthly",
-    "requirements": ["Certifications", "Attention to detail"],
-    "pros": ["Diverse projects", "Global", "Flexible"],
-    "cons": ["High minimum payout", "Slow payment", "Complex certs"],
+    "requirements": [
+      "Certifications",
+      "Attention to detail"
+    ],
+    "pros": [
+      "Diverse projects",
+      "Global",
+      "Flexible"
+    ],
+    "cons": [
+      "High minimum payout",
+      "Slow payment",
+      "Complex certs"
+    ],
     "kenya_specific_tips": "Complete all available certifications to unlock more projects and increase your earning potential.",
     "youtube_video_id": "9FAxMhpbrV8",
     "affiliate_link": "https://www.oneforma.com/"
@@ -1162,12 +2156,26 @@
     "category": "AI Training",
     "description": "A platform for AI training and data annotation.",
     "detailed_overview": "Mindrift is a newer platform focused on AI training. It offers opportunities for Kenyans to contribute to AI development through various data tasks. It is gaining popularity for its user-friendly interface.",
-    "payment_methods": ["Payoneer", "Crypto"],
+    "payment_methods": [
+      "Payoneer",
+      "Crypto"
+    ],
     "minimum_payout": "$20",
     "payout_frequency": "Bi-weekly",
-    "requirements": ["Tests", "English skills"],
-    "pros": ["New platform", "Good pay", "Flexible"],
-    "cons": ["Limited projects", "New reputation", "Payment delays"],
+    "requirements": [
+      "Tests",
+      "English skills"
+    ],
+    "pros": [
+      "New platform",
+      "Good pay",
+      "Flexible"
+    ],
+    "cons": [
+      "Limited projects",
+      "New reputation",
+      "Payment delays"
+    ],
     "kenya_specific_tips": "Sign up early and complete your profile to be among the first to get access to new projects.",
     "youtube_video_id": "fPrgWZGrHIw",
     "affiliate_link": "https://mindrift.ai/"
@@ -1179,12 +2187,25 @@
     "category": "AI Coding & Writing",
     "description": "A platform for AI coding and writing tasks.",
     "detailed_overview": "DataAnnotation.tech offers high-paying tasks for coders and writers to train AI models. Kenyans with strong coding or creative writing skills can find lucrative work here.",
-    "payment_methods": ["PayPal"],
+    "payment_methods": [
+      "PayPal"
+    ],
     "minimum_payout": "$20",
     "payout_frequency": "Weekly",
-    "requirements": ["Coding/Writing test", "High skills"],
-    "pros": ["High pay", "Flexible", "Interesting work"],
-    "cons": ["Hard test", "Inconsistent work", "PayPal only"],
+    "requirements": [
+      "Coding/Writing test",
+      "High skills"
+    ],
+    "pros": [
+      "High pay",
+      "Flexible",
+      "Interesting work"
+    ],
+    "cons": [
+      "Hard test",
+      "Inconsistent work",
+      "PayPal only"
+    ],
     "kenya_specific_tips": "Take your time with the qualification test as it is very difficult but opens doors to high-paying work.",
     "youtube_video_id": "9aJ7LBfto4E",
     "affiliate_link": "https://dataannotation.tech/"
@@ -1196,12 +2217,25 @@
     "category": "AI Training",
     "description": "A platform for AI training and expert tasks.",
     "detailed_overview": "Outlier is a platform that hires experts in various fields to train AI. Kenyans with specialized knowledge in math, science, or languages can find high-paying opportunities here.",
-    "payment_methods": ["PayPal"],
+    "payment_methods": [
+      "PayPal"
+    ],
     "minimum_payout": "$20",
     "payout_frequency": "Weekly",
-    "requirements": ["Expertise", "Tests"],
-    "pros": ["High pay", "Expert work", "Flexible"],
-    "cons": ["Hard to get in", "Project-based", "PayPal only"],
+    "requirements": [
+      "Expertise",
+      "Tests"
+    ],
+    "pros": [
+      "High pay",
+      "Expert work",
+      "Flexible"
+    ],
+    "cons": [
+      "Hard to get in",
+      "Project-based",
+      "PayPal only"
+    ],
     "kenya_specific_tips": "Highlight your academic and professional expertise in your application to stand out.",
     "youtube_video_id": "ym3v43JSL08",
     "affiliate_link": "https://outlier.ai/"
@@ -1213,12 +2247,25 @@
     "category": "AI Data Platform",
     "description": "A leading AI data platform.",
     "detailed_overview": "Scale AI is a leading data platform for AI. While it primarily works with enterprises, it occasionally hires remote annotators. Kenyans should keep an eye on their careers page for remote opportunities.",
-    "payment_methods": ["Bank Transfer"],
+    "payment_methods": [
+      "Bank Transfer"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Monthly",
-    "requirements": ["Experience", "Skills"],
-    "pros": ["Top-tier company", "High pay", "Professional"],
-    "cons": ["Rare openings", "High requirements", "Competitive"],
+    "requirements": [
+      "Experience",
+      "Skills"
+    ],
+    "pros": [
+      "Top-tier company",
+      "High pay",
+      "Professional"
+    ],
+    "cons": [
+      "Rare openings",
+      "High requirements",
+      "Competitive"
+    ],
     "kenya_specific_tips": "Network on LinkedIn with current employees to learn about upcoming remote roles.",
     "youtube_video_id": "ijoSdX_YfTQ",
     "affiliate_link": "https://scale.com/"
@@ -1230,12 +2277,29 @@
     "category": "Paid Surveys",
     "description": "Earn $1 for every survey you complete.",
     "detailed_overview": "Surveytime is a straightforward survey platform that pays you $1 for every completed survey. It eliminates the point system used by other sites, making it easy for Kenyans to track their earnings. Payments are made instantly via PayPal or Skrill.",
-    "payment_methods": ["PayPal", "Skrill", "Bitcoin"],
+    "payment_methods": [
+      "PayPal",
+      "Skrill",
+      "Bitcoin"
+    ],
     "minimum_payout": "$1",
     "payout_frequency": "Instant",
-    "requirements": ["Valid email", "Patience", "Honest answers"],
-    "pros": ["Flat rate pay", "Instant withdrawal", "No point system", "Simple"],
-    "cons": ["Frequent disqualifications", "Limited inventory", "Low hourly rate"],
+    "requirements": [
+      "Valid email",
+      "Patience",
+      "Honest answers"
+    ],
+    "pros": [
+      "Flat rate pay",
+      "Instant withdrawal",
+      "No point system",
+      "Simple"
+    ],
+    "cons": [
+      "Frequent disqualifications",
+      "Limited inventory",
+      "Low hourly rate"
+    ],
     "kenya_specific_tips": "Complete your profile thoroughly to increase your chances of qualifying for higher-paying studies.",
     "youtube_video_id": "Z0bACE7E7WQ",
     "affiliate_link": "https://surveytime.io/"
@@ -1247,12 +2311,28 @@
     "category": "Micro-tasks",
     "description": "A platform for completing small tasks to help improve AI.",
     "detailed_overview": "Toloka is a micro-task platform by Yandex that allows users to earn money by performing simple tasks like image classification, content moderation, and data collection. It is very popular in Kenya due to its low entry barrier and mobile-friendly interface.",
-    "payment_methods": ["Payoneer", "Papara"],
+    "payment_methods": [
+      "Payoneer",
+      "Papara"
+    ],
     "minimum_payout": "$0.02",
     "payout_frequency": "Instant",
-    "requirements": ["Basic computer skills", "Attention to detail", "Smartphone"],
-    "pros": ["Very low minimum payout", "Easy to start", "Mobile-friendly", "Global tasks"],
-    "cons": ["Low pay per task", "Repetitive work", "Limited high-paying tasks"],
+    "requirements": [
+      "Basic computer skills",
+      "Attention to detail",
+      "Smartphone"
+    ],
+    "pros": [
+      "Very low minimum payout",
+      "Easy to start",
+      "Mobile-friendly",
+      "Global tasks"
+    ],
+    "cons": [
+      "Low pay per task",
+      "Repetitive work",
+      "Limited high-paying tasks"
+    ],
     "kenya_specific_tips": "Focus on 'field tasks' if you live in Nairobi or Mombasa, as these often pay better than online-only tasks.",
     "youtube_video_id": "z8_W56_a-ys",
     "affiliate_link": "https://toloka.ai/"
@@ -1264,12 +2344,28 @@
     "category": "Rewards Program",
     "description": "Earn points for surveys, watching videos, and shopping online.",
     "detailed_overview": "Swagbucks is one of the oldest and most trusted rewards sites. Kenyans can earn points (SB) by taking surveys, watching videos, and shopping online, which can be redeemed for PayPal cash or gift cards.",
-    "payment_methods": ["PayPal", "Gift Cards"],
+    "payment_methods": [
+      "PayPal",
+      "Gift Cards"
+    ],
     "minimum_payout": "$3 (PayPal)",
     "payout_frequency": "Within 10 days",
-    "requirements": ["US/UK IP sometimes required for best tasks", "Patience", "Email"],
-    "pros": ["Many ways to earn", "Trusted platform", "Bonus points", "Mobile app"],
-    "cons": ["Low pay for non-US users", "Slow accumulation", "Disqualifications"],
+    "requirements": [
+      "US/UK IP sometimes required for best tasks",
+      "Patience",
+      "Email"
+    ],
+    "pros": [
+      "Many ways to earn",
+      "Trusted platform",
+      "Bonus points",
+      "Mobile app"
+    ],
+    "cons": [
+      "Low pay for non-US users",
+      "Slow accumulation",
+      "Disqualifications"
+    ],
     "kenya_specific_tips": "Use a reliable browser and keep your profile updated to maximize survey matches. Focus on daily goals.",
     "youtube_video_id": "2yO1oWF9TLU",
     "affiliate_link": "https://www.swagbucks.com/"
@@ -1281,12 +2377,28 @@
     "category": "Fashion Marketplace",
     "description": "Kenya's premier online fashion marketplace.",
     "detailed_overview": "Yaga is Kenya's premier online fashion marketplace, allowing individuals and boutiques to sell pre-loved and new fashion items. It handles logistics and payments, making it easy for Kenyans to start an online clothing business.",
-    "payment_methods": ["M-Pesa", "Card"],
+    "payment_methods": [
+      "M-Pesa",
+      "Card"
+    ],
     "minimum_payout": "KES 500",
     "payout_frequency": "After delivery",
-    "requirements": ["Quality photos", "Inventory", "Yaga account"],
-    "pros": ["Targeted fashion audience", "Easy to list", "Local logistics", "Secure payments"],
-    "cons": ["Commission fees", "Competition", "Strict quality standards"],
+    "requirements": [
+      "Quality photos",
+      "Inventory",
+      "Yaga account"
+    ],
+    "pros": [
+      "Targeted fashion audience",
+      "Easy to list",
+      "Local logistics",
+      "Secure payments"
+    ],
+    "cons": [
+      "Commission fees",
+      "Competition",
+      "Strict quality standards"
+    ],
     "kenya_specific_tips": "Use natural light for your product photos and write detailed descriptions to increase sales significantly.",
     "youtube_video_id": "RyCVtc8CBVk",
     "affiliate_link": "https://yaga.co.ke/"
@@ -1298,12 +2410,27 @@
     "category": "Classifieds",
     "description": "A free classifieds site for buying and selling in Kenya.",
     "detailed_overview": "Jiji is the go-to free classifieds site in Kenya for buying and selling anything from electronics to cars. It has huge traffic and is an excellent platform for small businesses and individuals to reach local buyers.",
-    "payment_methods": ["Cash on Delivery", "M-Pesa"],
+    "payment_methods": [
+      "Cash on Delivery",
+      "M-Pesa"
+    ],
     "minimum_payout": "N/A",
     "payout_frequency": "Immediate",
-    "requirements": ["Phone number verification", "Photos"],
-    "pros": ["Free to post", "Huge traffic", "Local buyers", "Easy to use"],
-    "cons": ["Scammers", "No built-in payment protection", "Time-wasters"],
+    "requirements": [
+      "Phone number verification",
+      "Photos"
+    ],
+    "pros": [
+      "Free to post",
+      "Huge traffic",
+      "Local buyers",
+      "Easy to use"
+    ],
+    "cons": [
+      "Scammers",
+      "No built-in payment protection",
+      "Time-wasters"
+    ],
     "kenya_specific_tips": "Always meet in public places and verify M-Pesa messages before handing over goods. Avoid sharing OTPs.",
     "youtube_video_id": "HWnaoZLSzQs",
     "affiliate_link": "https://jiji.co.ke/"
@@ -1315,12 +2442,28 @@
     "category": "Social Commerce",
     "description": "Buy and sell items within your local community on Facebook.",
     "detailed_overview": "Facebook Marketplace leverages your social network to help you sell items quickly within your local community. It is free to use and has massive reach in Kenya, especially for household items and electronics.",
-    "payment_methods": ["M-Pesa", "Cash"],
+    "payment_methods": [
+      "M-Pesa",
+      "Cash"
+    ],
     "minimum_payout": "N/A",
     "payout_frequency": "Immediate",
-    "requirements": ["Facebook account", "Photos"],
-    "pros": ["Zero fees", "Local visibility", "Easy communication", "Huge user base"],
-    "cons": ["Privacy concerns", "Time-wasters", "Scams", "No seller protection"],
+    "requirements": [
+      "Facebook account",
+      "Photos"
+    ],
+    "pros": [
+      "Zero fees",
+      "Local visibility",
+      "Easy communication",
+      "Huge user base"
+    ],
+    "cons": [
+      "Privacy concerns",
+      "Time-wasters",
+      "Scams",
+      "No seller protection"
+    ],
     "kenya_specific_tips": "Join specific 'Buy and Sell' groups in your area for better reach and faster sales.",
     "youtube_video_id": "LJbe37S3gHQ",
     "affiliate_link": "https://www.facebook.com/marketplace/"
@@ -1332,12 +2475,27 @@
     "category": "Online Mall",
     "description": "An online mall connecting shoppers with verified sellers.",
     "detailed_overview": "Sky Garden is an online mall that connects shoppers with verified sellers in Kenya. It focuses on quality and reliability, offering a curated shopping experience for fashion, electronics, and home goods.",
-    "payment_methods": ["M-Pesa", "Card"],
+    "payment_methods": [
+      "M-Pesa",
+      "Card"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Weekly",
-    "requirements": ["Seller registration", "Quality products"],
-    "pros": ["Verified sellers", "Quality products", "Good support", "Trust"],
-    "cons": ["Smaller audience than Jiji", "Strict seller rules", "Commission fees"],
+    "requirements": [
+      "Seller registration",
+      "Quality products"
+    ],
+    "pros": [
+      "Verified sellers",
+      "Quality products",
+      "Good support",
+      "Trust"
+    ],
+    "cons": [
+      "Smaller audience than Jiji",
+      "Strict seller rules",
+      "Commission fees"
+    ],
     "kenya_specific_tips": "Provide excellent customer service and fast shipping to get featured on their homepage and boost sales.",
     "youtube_video_id": "oW5IFnvlGeo",
     "affiliate_link": "https://skygarden.co.ke/"
@@ -1349,12 +2507,26 @@
     "category": "Design Contests",
     "description": "A global graphic design platform using contest-based work.",
     "detailed_overview": "99designs connects clients with designers through contests. Kenyan designers can submit multiple designs for a single project, and only the winner gets paid. It is excellent for building a portfolio and gaining exposure.",
-    "payment_methods": ["PayPal", "Payoneer"],
+    "payment_methods": [
+      "PayPal",
+      "Payoneer"
+    ],
     "minimum_payout": "$50",
     "payout_frequency": "Upon winning",
-    "requirements": ["Portfolio", "Design skills"],
-    "pros": ["High prize money", "Creative freedom", "Global exposure"],
-    "cons": ["Only winners get paid", "High competition", "Time-consuming"],
+    "requirements": [
+      "Portfolio",
+      "Design skills"
+    ],
+    "pros": [
+      "High prize money",
+      "Creative freedom",
+      "Global exposure"
+    ],
+    "cons": [
+      "Only winners get paid",
+      "High competition",
+      "Time-consuming"
+    ],
     "kenya_specific_tips": "Read the brief carefully and ask questions before starting to increase your chances of winning.",
     "youtube_video_id": "hUa6PrpykNY",
     "affiliate_link": "https://99designs.com/"
@@ -1366,12 +2538,25 @@
     "category": "Design Marketplace",
     "description": "An online marketplace for graphic design services.",
     "detailed_overview": "Similar to 99designs, DesignCrowd allows Kenyan designers to participate in contests or work on direct projects. It offers a wide range of design categories from logos to web design.",
-    "payment_methods": ["PayPal", "Payoneer"],
+    "payment_methods": [
+      "PayPal",
+      "Payoneer"
+    ],
     "minimum_payout": "$20",
     "payout_frequency": "Weekly",
-    "requirements": ["Design portfolio"],
-    "pros": ["Many contests", "Direct projects", "Global clients"],
-    "cons": ["Contest model risks", "Fees", "Competition"],
+    "requirements": [
+      "Design portfolio"
+    ],
+    "pros": [
+      "Many contests",
+      "Direct projects",
+      "Global clients"
+    ],
+    "cons": [
+      "Contest model risks",
+      "Fees",
+      "Competition"
+    ],
     "kenya_specific_tips": "Start with smaller contests to build your rating and reputation on the platform.",
     "youtube_video_id": "W1jAnfUy2CM",
     "affiliate_link": "https://www.designcrowd.com/"
@@ -1383,12 +2568,24 @@
     "category": "Job Aggregator",
     "description": "A curated job board for freelance writers.",
     "detailed_overview": "Contena curates high-quality writing jobs from across the web. While it is a paid service, it saves Kenyan writers time by filtering out scams and low-paying gigs.",
-    "payment_methods": ["Credit Card"],
+    "payment_methods": [
+      "Credit Card"
+    ],
     "minimum_payout": "N/A",
     "payout_frequency": "N/A",
-    "requirements": ["Subscription"],
-    "pros": ["High-quality leads", "Saves time", "Curated list"],
-    "cons": ["Paid subscription", "No guarantee of work", "Competitive"],
+    "requirements": [
+      "Subscription"
+    ],
+    "pros": [
+      "High-quality leads",
+      "Saves time",
+      "Curated list"
+    ],
+    "cons": [
+      "Paid subscription",
+      "No guarantee of work",
+      "Competitive"
+    ],
     "kenya_specific_tips": "Use the free trial to see if the quality of jobs matches your expertise before subscribing.",
     "youtube_video_id": "hZl0Ea-eF_A",
     "affiliate_link": "https://contena.co/"
@@ -1400,12 +2597,25 @@
     "category": "Remote Job Board",
     "description": "One of the largest remote work communities.",
     "detailed_overview": "We Work Remotely lists remote jobs in programming, design, marketing, and more. It is a great resource for Kenyans looking for full-time remote employment rather than just freelance gigs.",
-    "payment_methods": ["Varies by employer"],
+    "payment_methods": [
+      "Varies by employer"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Monthly",
-    "requirements": ["Experience", "Remote work skills"],
-    "pros": ["High-quality jobs", "No registration fee", "Diverse categories"],
-    "cons": ["High competition", "Full-time focus", "Time zone differences"],
+    "requirements": [
+      "Experience",
+      "Remote work skills"
+    ],
+    "pros": [
+      "High-quality jobs",
+      "No registration fee",
+      "Diverse categories"
+    ],
+    "cons": [
+      "High competition",
+      "Full-time focus",
+      "Time zone differences"
+    ],
     "kenya_specific_tips": "Filter jobs by 'Worldwide' to find companies open to hiring from Kenya.",
     "youtube_video_id": "LT0S56NY3P4",
     "affiliate_link": "https://weworkremotely.com/"
@@ -1417,12 +2627,25 @@
     "category": "Remote Job Board",
     "description": "A curated list of remote jobs.",
     "detailed_overview": "Remote.co offers a curated list of remote jobs in various fields. It also provides resources and advice for remote workers, making it a valuable hub for Kenyans entering the remote work space.",
-    "payment_methods": ["Varies by employer"],
+    "payment_methods": [
+      "Varies by employer"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Monthly",
-    "requirements": ["Experience", "Self-discipline"],
-    "pros": ["Curated list", "Resources provided", "Trusted brands"],
-    "cons": ["Competitive", "Limited filters", "Global competition"],
+    "requirements": [
+      "Experience",
+      "Self-discipline"
+    ],
+    "pros": [
+      "Curated list",
+      "Resources provided",
+      "Trusted brands"
+    ],
+    "cons": [
+      "Competitive",
+      "Limited filters",
+      "Global competition"
+    ],
     "kenya_specific_tips": "Use their resume tips to tailor your application for remote-specific roles.",
     "youtube_video_id": "mqM3kvMUjuU",
     "affiliate_link": "https://remote.co/"
@@ -1434,12 +2657,25 @@
     "category": "Remote Job Board",
     "description": "A curated list of remote work opportunities.",
     "detailed_overview": "Working Nomads sends daily emails with curated remote job listings. It covers development, design, marketing, and administration, offering Kenyans a steady stream of potential opportunities.",
-    "payment_methods": ["Varies by employer"],
+    "payment_methods": [
+      "Varies by employer"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Monthly",
-    "requirements": ["Email subscription", "Relevant skills"],
-    "pros": ["Daily updates", "Curated list", "Free to use"],
-    "cons": ["High volume of emails", "Competitive", "Varied quality"],
+    "requirements": [
+      "Email subscription",
+      "Relevant skills"
+    ],
+    "pros": [
+      "Daily updates",
+      "Curated list",
+      "Free to use"
+    ],
+    "cons": [
+      "High volume of emails",
+      "Competitive",
+      "Varied quality"
+    ],
     "kenya_specific_tips": "Set up filters in your email to prioritize jobs that mention 'Worldwide' or 'Anywhere'.",
     "youtube_video_id": "v4FRfXXvN8k",
     "affiliate_link": "https://workingnomads.com/"
@@ -1451,12 +2687,24 @@
     "category": "Remote Job Board",
     "description": "Expertly curated remote jobs.",
     "detailed_overview": "Jobspresso features high-quality remote jobs in tech, marketing, and customer support. Each job is reviewed to ensure it is legitimate, saving Kenyans from scam listings.",
-    "payment_methods": ["Varies by employer"],
+    "payment_methods": [
+      "Varies by employer"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Monthly",
-    "requirements": ["Professional experience"],
-    "pros": ["Legitimate jobs", "Easy to navigate", "High quality"],
-    "cons": ["Fewer listings", "Competitive", "Tech-focused"],
+    "requirements": [
+      "Professional experience"
+    ],
+    "pros": [
+      "Legitimate jobs",
+      "Easy to navigate",
+      "High quality"
+    ],
+    "cons": [
+      "Fewer listings",
+      "Competitive",
+      "Tech-focused"
+    ],
     "kenya_specific_tips": "Check the site regularly as new high-quality jobs are added frequently.",
     "youtube_video_id": "HltmCtM1Ef0",
     "affiliate_link": "https://jobspresso.co/"
@@ -1468,12 +2716,24 @@
     "category": "Remote Community",
     "description": "A community and job board for remote workers.",
     "detailed_overview": "Pangian combines a job board with a social community for remote workers. Kenyans can network with other professionals while searching for remote opportunities in various fields.",
-    "payment_methods": ["Varies by employer"],
+    "payment_methods": [
+      "Varies by employer"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Monthly",
-    "requirements": ["Profile creation"],
-    "pros": ["Community aspect", "Networking", "Job board"],
-    "cons": ["Smaller job list", "Community focus", "Newer platform"],
+    "requirements": [
+      "Profile creation"
+    ],
+    "pros": [
+      "Community aspect",
+      "Networking",
+      "Job board"
+    ],
+    "cons": [
+      "Smaller job list",
+      "Community focus",
+      "Newer platform"
+    ],
     "kenya_specific_tips": "Engage in the community forums to build connections that might lead to job referrals.",
     "youtube_video_id": "6qrBiXXw5LM",
     "affiliate_link": "https://pangian.com/"
@@ -1485,12 +2745,24 @@
     "category": "Remote Job Board",
     "description": "A remote job board and community.",
     "detailed_overview": "Remotive helps people find remote jobs and connect with a community of remote workers. It features jobs in software, sales, marketing, and more, suitable for Kenyan professionals.",
-    "payment_methods": ["Varies by employer"],
+    "payment_methods": [
+      "Varies by employer"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Monthly",
-    "requirements": ["Experience"],
-    "pros": ["Community", "Curated jobs", "Newsletter"],
-    "cons": ["Competitive", "Limited categories", "Global reach"],
+    "requirements": [
+      "Experience"
+    ],
+    "pros": [
+      "Community",
+      "Curated jobs",
+      "Newsletter"
+    ],
+    "cons": [
+      "Competitive",
+      "Limited categories",
+      "Global reach"
+    ],
     "kenya_specific_tips": "Subscribe to their newsletter to get the latest remote jobs delivered to your inbox.",
     "youtube_video_id": "4xu4HO8bFcc",
     "affiliate_link": "https://remotive.com/"
@@ -1502,12 +2774,24 @@
     "category": "Remote Job Aggregator",
     "description": "Aggregates remote jobs from various sources.",
     "detailed_overview": "SkipTheDrive aggregates remote job listings from across the internet. It is a useful tool for Kenyans to find a wide variety of remote opportunities in one place.",
-    "payment_methods": ["Varies by employer"],
+    "payment_methods": [
+      "Varies by employer"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Monthly",
-    "requirements": ["Job search skills"],
-    "pros": ["Wide variety", "Aggregated list", "Free"],
-    "cons": ["Duplicates", "Varied quality", "No vetting"],
+    "requirements": [
+      "Job search skills"
+    ],
+    "pros": [
+      "Wide variety",
+      "Aggregated list",
+      "Free"
+    ],
+    "cons": [
+      "Duplicates",
+      "Varied quality",
+      "No vetting"
+    ],
     "kenya_specific_tips": "Verify the legitimacy of each employer before applying, as the site aggregates from many sources.",
     "youtube_video_id": "v2664wRUggs",
     "affiliate_link": "https://www.skipthedrive.com/"
@@ -1519,12 +2803,24 @@
     "category": "Remote Job Board",
     "description": "A telecommuting job board.",
     "detailed_overview": "Virtual Vocations specializes in telecommuting and remote jobs. It screens jobs for legitimacy, making it a safer option for Kenyans looking for remote work.",
-    "payment_methods": ["Varies by employer"],
+    "payment_methods": [
+      "Varies by employer"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Monthly",
-    "requirements": ["Experience"],
-    "pros": ["Screened jobs", "Safe", "Categories"],
-    "cons": ["Subscription for full access", "US-focused", "Competitive"],
+    "requirements": [
+      "Experience"
+    ],
+    "pros": [
+      "Screened jobs",
+      "Safe",
+      "Categories"
+    ],
+    "cons": [
+      "Subscription for full access",
+      "US-focused",
+      "Competitive"
+    ],
     "kenya_specific_tips": "Look for jobs marked as 'Global' or 'Worldwide' to ensure eligibility.",
     "youtube_video_id": "vt4UMLdOgpg",
     "affiliate_link": "https://www.virtualvocations.com/"
@@ -1536,12 +2832,24 @@
     "category": "Community & Jobs",
     "description": "A community for independent professionals.",
     "detailed_overview": "CloudPeeps is a community-driven platform for freelancers and remote workers. It offers job listings, networking opportunities, and resources for independent professionals in Kenya.",
-    "payment_methods": ["Varies"],
+    "payment_methods": [
+      "Varies"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Varies",
-    "requirements": ["Membership"],
-    "pros": ["Community", "Networking", "Resources"],
-    "cons": ["Smaller job board", "Membership focus", "Niche"],
+    "requirements": [
+      "Membership"
+    ],
+    "pros": [
+      "Community",
+      "Networking",
+      "Resources"
+    ],
+    "cons": [
+      "Smaller job board",
+      "Membership focus",
+      "Niche"
+    ],
     "kenya_specific_tips": "Participate actively in the community to build relationships that can lead to job opportunities.",
     "youtube_video_id": "Ov9rPevf500",
     "affiliate_link": "https://cloudpeeps.com/"
@@ -1553,12 +2861,26 @@
     "category": "Forex Broker",
     "description": "A top-rated forex broker with tight spreads.",
     "detailed_overview": "IC Markets is known for its raw spreads and fast execution, making it a favorite among serious Kenyan traders and scalpers. It supports MetaTrader 4 and 5.",
-    "payment_methods": ["Bank Transfer", "Card", "Crypto"],
+    "payment_methods": [
+      "Bank Transfer",
+      "Card",
+      "Crypto"
+    ],
     "minimum_payout": "$1",
     "payout_frequency": "Instant",
-    "requirements": ["KYC"],
-    "pros": ["Tight spreads", "Fast execution", "Regulated"],
-    "cons": ["No direct M-Pesa", "High minimum deposit for some accounts", "Complex for beginners"],
+    "requirements": [
+      "KYC"
+    ],
+    "pros": [
+      "Tight spreads",
+      "Fast execution",
+      "Regulated"
+    ],
+    "cons": [
+      "No direct M-Pesa",
+      "High minimum deposit for some accounts",
+      "Complex for beginners"
+    ],
     "kenya_specific_tips": "Use the Raw Spread account for the lowest trading costs if you are an experienced trader.",
     "youtube_video_id": "LVzwM_y8kfQ",
     "affiliate_link": "https://www.icmarkets.com/"
@@ -1570,12 +2892,26 @@
     "category": "Forex Broker",
     "description": "A forex broker with low spreads and high leverage.",
     "detailed_overview": "JustMarkets offers competitive trading conditions with low spreads and high leverage. It supports local payment methods, making it accessible for Kenyan traders.",
-    "payment_methods": ["M-Pesa", "Crypto", "Cards"],
+    "payment_methods": [
+      "M-Pesa",
+      "Crypto",
+      "Cards"
+    ],
     "minimum_payout": "$1",
     "payout_frequency": "Instant",
-    "requirements": ["KYC"],
-    "pros": ["Low spreads", "High leverage", "Local payments"],
-    "cons": ["Less regulation", "Customer support", "Slippage"],
+    "requirements": [
+      "KYC"
+    ],
+    "pros": [
+      "Low spreads",
+      "High leverage",
+      "Local payments"
+    ],
+    "cons": [
+      "Less regulation",
+      "Customer support",
+      "Slippage"
+    ],
     "kenya_specific_tips": "Use strict stop-losses due to the high leverage offered by the platform.",
     "youtube_video_id": "S7y1xmsNT_0",
     "affiliate_link": "https://justmarkets.com/"
@@ -1587,12 +2923,26 @@
     "category": "Forex Broker",
     "description": "A global forex broker with a strong Asian presence.",
     "detailed_overview": "FBS is a well-known broker offering various account types and bonuses. It is popular in Kenya for its low minimum deposit and educational materials.",
-    "payment_methods": ["M-Pesa", "Crypto", "Cards"],
+    "payment_methods": [
+      "M-Pesa",
+      "Crypto",
+      "Cards"
+    ],
     "minimum_payout": "$1",
     "payout_frequency": "Instant",
-    "requirements": ["KYC"],
-    "pros": ["Low deposit", "Bonuses", "Education"],
-    "cons": ["Variable spreads", "Bonus terms", "Regulation"],
+    "requirements": [
+      "KYC"
+    ],
+    "pros": [
+      "Low deposit",
+      "Bonuses",
+      "Education"
+    ],
+    "cons": [
+      "Variable spreads",
+      "Bonus terms",
+      "Regulation"
+    ],
     "kenya_specific_tips": "Read the bonus terms carefully to avoid issues when withdrawing your profits.",
     "youtube_video_id": "cXGhkCej-xY",
     "affiliate_link": "https://fbs.com/"
@@ -1604,12 +2954,25 @@
     "category": "Crypto Exchange",
     "description": "A crypto exchange focused on emerging markets.",
     "detailed_overview": "Luno is a regulated crypto exchange that operates in several African countries. It is a safe and simple option for Kenyans to buy and sell Bitcoin and Ethereum.",
-    "payment_methods": ["Bank Transfer", "Mobile Money"],
+    "payment_methods": [
+      "Bank Transfer",
+      "Mobile Money"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Instant",
-    "requirements": ["KYC"],
-    "pros": ["Regulated", "Simple", "Local support"],
-    "cons": ["Fewer coins", "Higher fees", "Limited features"],
+    "requirements": [
+      "KYC"
+    ],
+    "pros": [
+      "Regulated",
+      "Simple",
+      "Local support"
+    ],
+    "cons": [
+      "Fewer coins",
+      "Higher fees",
+      "Limited features"
+    ],
     "kenya_specific_tips": "Use Luno for its simplicity and regulatory safety if you are a beginner.",
     "youtube_video_id": "vJm87jscBBc",
     "affiliate_link": "https://www.luno.com/"
@@ -1621,12 +2984,25 @@
     "category": "DeFi Exchange",
     "description": "A decentralized exchange on Ethereum.",
     "detailed_overview": "Uniswap is a leading decentralized exchange that allows users to swap tokens without intermediaries. Kenyans can also earn by providing liquidity to trading pairs.",
-    "payment_methods": ["Crypto Wallet"],
+    "payment_methods": [
+      "Crypto Wallet"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Real-time",
-    "requirements": ["Crypto wallet", "ETH for gas"],
-    "pros": ["Decentralized", "Many tokens", "Liquidity mining"],
-    "cons": ["High gas fees", "Impermanent loss", "Complex"],
+    "requirements": [
+      "Crypto wallet",
+      "ETH for gas"
+    ],
+    "pros": [
+      "Decentralized",
+      "Many tokens",
+      "Liquidity mining"
+    ],
+    "cons": [
+      "High gas fees",
+      "Impermanent loss",
+      "Complex"
+    ],
     "kenya_specific_tips": "Be aware of impermanent loss when providing liquidity to volatile pairs.",
     "youtube_video_id": "2b3p0ZRQFd4",
     "affiliate_link": "https://uniswap.org/"
@@ -1638,12 +3014,25 @@
     "category": "Learn and Earn",
     "description": "Learn about crypto and earn rewards.",
     "detailed_overview": "CoinMarketCap Earn allows users to learn about new crypto projects and earn small amounts of those tokens. It is a great way for Kenyans to start their crypto journey.",
-    "payment_methods": ["Crypto Wallet"],
+    "payment_methods": [
+      "Crypto Wallet"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Per campaign",
-    "requirements": ["Account", "Verification"],
-    "pros": ["Free crypto", "Educational", "Easy"],
-    "cons": ["Small amounts", "Limited campaigns", "KYC"],
+    "requirements": [
+      "Account",
+      "Verification"
+    ],
+    "pros": [
+      "Free crypto",
+      "Educational",
+      "Easy"
+    ],
+    "cons": [
+      "Small amounts",
+      "Limited campaigns",
+      "KYC"
+    ],
     "kenya_specific_tips": "Complete the quizzes carefully to ensure you receive the rewards.",
     "youtube_video_id": "k6FwZVWARI4",
     "affiliate_link": "https://coinmarketcap.com/earn/"
@@ -1655,12 +3044,23 @@
     "category": "Learn and Earn",
     "description": "Learn and earn with CoinGecko.",
     "detailed_overview": "Similar to CoinMarketCap, CoinGecko offers learn-and-earn campaigns where Kenyans can earn crypto by completing educational modules.",
-    "payment_methods": ["Crypto Wallet"],
+    "payment_methods": [
+      "Crypto Wallet"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Per campaign",
-    "requirements": ["Account"],
-    "pros": ["Free crypto", "Educational", "Trusted source"],
-    "cons": ["Small amounts", "Limited campaigns"],
+    "requirements": [
+      "Account"
+    ],
+    "pros": [
+      "Free crypto",
+      "Educational",
+      "Trusted source"
+    ],
+    "cons": [
+      "Small amounts",
+      "Limited campaigns"
+    ],
     "kenya_specific_tips": "Follow CoinGecko on social media to get notified of new earn campaigns.",
     "youtube_video_id": "oCplgom2zmQ",
     "affiliate_link": "https://www.coingecko.com/en/earn"
@@ -1672,12 +3072,25 @@
     "category": "Crypto Staking",
     "description": "Stake your crypto on Coinbase to earn rewards.",
     "detailed_overview": "Coinbase Staking allows users to earn rewards by staking supported cryptocurrencies. It is a simple and secure way for Kenyans to grow their crypto holdings.",
-    "payment_methods": ["Crypto"],
+    "payment_methods": [
+      "Crypto"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Daily",
-    "requirements": ["Coinbase account", "Crypto"],
-    "pros": ["Easy to use", "Secure", "Passive income"],
-    "cons": ["Lock-up periods", "Platform fees", "Market risk"],
+    "requirements": [
+      "Coinbase account",
+      "Crypto"
+    ],
+    "pros": [
+      "Easy to use",
+      "Secure",
+      "Passive income"
+    ],
+    "cons": [
+      "Lock-up periods",
+      "Platform fees",
+      "Market risk"
+    ],
     "kenya_specific_tips": "Check the annual percentage yield (APY) before staking to ensure it meets your expectations.",
     "youtube_video_id": "yxltz1o6AyU",
     "affiliate_link": "https://www.coinbase.com/staking"
@@ -1689,12 +3102,25 @@
     "category": "Crypto Staking",
     "description": "Stake your crypto on Kraken to earn rewards.",
     "detailed_overview": "Kraken offers staking services for various cryptocurrencies, allowing Kenyans to earn passive income. It is known for its security and reliability.",
-    "payment_methods": ["Crypto"],
+    "payment_methods": [
+      "Crypto"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Weekly/Daily",
-    "requirements": ["Kraken account", "Crypto"],
-    "pros": ["Secure", "Good yields", "Reputable"],
-    "cons": ["Lock-up periods", "Fees", "Limited coins"],
+    "requirements": [
+      "Kraken account",
+      "Crypto"
+    ],
+    "pros": [
+      "Secure",
+      "Good yields",
+      "Reputable"
+    ],
+    "cons": [
+      "Lock-up periods",
+      "Fees",
+      "Limited coins"
+    ],
     "kenya_specific_tips": "Compare the staking rewards across different coins to maximize your returns.",
     "youtube_video_id": "6oNsN1VmWEQ",
     "affiliate_link": "https://www.kraken.com/features/staking"
@@ -1706,12 +3132,26 @@
     "category": "AI Data Labeling",
     "description": "A platform for high-quality data labeling.",
     "detailed_overview": "Surge AI focuses on high-quality data labeling for AI models. It offers remote opportunities for Kenyans with attention to detail.",
-    "payment_methods": ["PayPal", "Wire"],
+    "payment_methods": [
+      "PayPal",
+      "Wire"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Monthly",
-    "requirements": ["Attention to detail", "Tests"],
-    "pros": ["High quality", "Good pay", "Remote"],
-    "cons": ["Hard to get in", "Project-based", "Strict"],
+    "requirements": [
+      "Attention to detail",
+      "Tests"
+    ],
+    "pros": [
+      "High quality",
+      "Good pay",
+      "Remote"
+    ],
+    "cons": [
+      "Hard to get in",
+      "Project-based",
+      "Strict"
+    ],
     "kenya_specific_tips": "Ensure your application highlights your attention to detail and reliability.",
     "youtube_video_id": "LfhVBXzZ9V8",
     "affiliate_link": "https://www.surge.ai/"
@@ -1723,12 +3163,24 @@
     "category": "AI Data Platform",
     "description": "A platform for data labeling and annotation.",
     "detailed_overview": "Labelbox provides tools and services for data labeling. They occasionally hire remote contractors for annotation tasks.",
-    "payment_methods": ["Bank Transfer"],
+    "payment_methods": [
+      "Bank Transfer"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Monthly",
-    "requirements": ["Experience"],
-    "pros": ["Professional", "Good pay", "Remote"],
-    "cons": ["Rare openings", "High requirements", "Corporate"],
+    "requirements": [
+      "Experience"
+    ],
+    "pros": [
+      "Professional",
+      "Good pay",
+      "Remote"
+    ],
+    "cons": [
+      "Rare openings",
+      "High requirements",
+      "Corporate"
+    ],
     "kenya_specific_tips": "Check their careers page regularly for remote contractor roles.",
     "youtube_video_id": "N3dL94qpWhY",
     "affiliate_link": "https://labelbox.com/"
@@ -1740,12 +3192,26 @@
     "category": "AI Services",
     "description": "A company providing AI training services.",
     "detailed_overview": "Invisible Technologies hires remote workers for various AI training tasks. It is a reputable company offering flexible work for Kenyans.",
-    "payment_methods": ["Bank Transfer", "PayPal"],
+    "payment_methods": [
+      "Bank Transfer",
+      "PayPal"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Monthly",
-    "requirements": ["Tests", "Reliability"],
-    "pros": ["Reputable", "Flexible", "Good pay"],
-    "cons": ["Hard to get in", "Project-based", "Strict"],
+    "requirements": [
+      "Tests",
+      "Reliability"
+    ],
+    "pros": [
+      "Reputable",
+      "Flexible",
+      "Good pay"
+    ],
+    "cons": [
+      "Hard to get in",
+      "Project-based",
+      "Strict"
+    ],
     "kenya_specific_tips": "Prepare thoroughly for the assessment tests to increase your chances of being hired.",
     "youtube_video_id": "xCJGqB9Yyeo",
     "affiliate_link": "https://invisible.co/"
@@ -1757,12 +3223,25 @@
     "category": "Academic Surveys",
     "description": "A platform for academic research studies.",
     "detailed_overview": "Prolific connects researchers with participants for academic studies. It is known for fair pay and respectful treatment of participants, making it a favorite among Kenyans.",
-    "payment_methods": ["PayPal"],
+    "payment_methods": [
+      "PayPal"
+    ],
     "minimum_payout": "£5",
     "payout_frequency": "Instant",
-    "requirements": ["Profile completion", "Honesty"],
-    "pros": ["Fair pay", "Respectful", "Academic"],
-    "cons": ["Waitlist", "Limited studies", "PayPal only"],
+    "requirements": [
+      "Profile completion",
+      "Honesty"
+    ],
+    "pros": [
+      "Fair pay",
+      "Respectful",
+      "Academic"
+    ],
+    "cons": [
+      "Waitlist",
+      "Limited studies",
+      "PayPal only"
+    ],
     "kenya_specific_tips": "Complete your profile thoroughly to get matched with more studies.",
     "youtube_video_id": "df7XJSHZLBs",
     "affiliate_link": "https://www.prolific.co/"
@@ -1774,12 +3253,25 @@
     "category": "Micro-tasks",
     "description": "A crowdsourcing marketplace for micro-tasks.",
     "detailed_overview": "MTurk allows users to complete small tasks for pay. While it is harder for Kenyans to get accepted now, it remains a well-known platform for micro-work.",
-    "payment_methods": ["Amazon Gift Card", "Bank"],
+    "payment_methods": [
+      "Amazon Gift Card",
+      "Bank"
+    ],
     "minimum_payout": "$1",
     "payout_frequency": "Varies",
-    "requirements": ["Account approval"],
-    "pros": ["Many tasks", "Amazon brand", "Flexible"],
-    "cons": ["Hard to join", "Low pay", "Complex"],
+    "requirements": [
+      "Account approval"
+    ],
+    "pros": [
+      "Many tasks",
+      "Amazon brand",
+      "Flexible"
+    ],
+    "cons": [
+      "Hard to join",
+      "Low pay",
+      "Complex"
+    ],
     "kenya_specific_tips": "If you get accepted, start with simple tasks to build your approval rating.",
     "youtube_video_id": "VBRXMemhJac",
     "affiliate_link": "https://www.mturk.com/"
@@ -1791,12 +3283,25 @@
     "category": "AI Tasks",
     "description": "A platform for AI training tasks.",
     "detailed_overview": "Neevo offers micro-tasks for AI training. It is a newer platform that is gaining popularity among Kenyan remote workers.",
-    "payment_methods": ["PayPal"],
+    "payment_methods": [
+      "PayPal"
+    ],
     "minimum_payout": "$10",
     "payout_frequency": "Weekly",
-    "requirements": ["Tests", "Attention to detail"],
-    "pros": ["New platform", "Flexible", "Good pay"],
-    "cons": ["Limited tasks", "New reputation", "PayPal only"],
+    "requirements": [
+      "Tests",
+      "Attention to detail"
+    ],
+    "pros": [
+      "New platform",
+      "Flexible",
+      "Good pay"
+    ],
+    "cons": [
+      "Limited tasks",
+      "New reputation",
+      "PayPal only"
+    ],
     "kenya_specific_tips": "Sign up early and complete your profile to be among the first to get tasks.",
     "youtube_video_id": "XVRgmcrHTzI",
     "affiliate_link": "https://neevowork.com/"
@@ -1808,12 +3313,25 @@
     "category": "Website Testing",
     "description": "A platform for testing websites and apps.",
     "detailed_overview": "UserTesting pays users to test websites and apps and provide feedback. It is a great option for Kenyans with good communication skills.",
-    "payment_methods": ["PayPal"],
+    "payment_methods": [
+      "PayPal"
+    ],
     "minimum_payout": "$10",
     "payout_frequency": "7 days",
-    "requirements": ["Microphone", "English skills"],
-    "pros": ["High pay per test", "Interesting work", "Flexible"],
-    "cons": ["Screening process", "Limited tests", "PayPal only"],
+    "requirements": [
+      "Microphone",
+      "English skills"
+    ],
+    "pros": [
+      "High pay per test",
+      "Interesting work",
+      "Flexible"
+    ],
+    "cons": [
+      "Screening process",
+      "Limited tests",
+      "PayPal only"
+    ],
     "kenya_specific_tips": "Speak clearly and provide detailed feedback to qualify for more tests.",
     "youtube_video_id": "XrWyO_9-x6U",
     "affiliate_link": "https://www.usertesting.com/"
@@ -1825,12 +3343,26 @@
     "category": "Website Testing",
     "description": "A user experience testing platform.",
     "detailed_overview": "Userlytics allows users to test websites and apps from around the world. It is a good alternative to UserTesting for Kenyans.",
-    "payment_methods": ["PayPal", "Gift Cards"],
+    "payment_methods": [
+      "PayPal",
+      "Gift Cards"
+    ],
     "minimum_payout": "$10",
     "payout_frequency": "Varies",
-    "requirements": ["Microphone", "English skills"],
-    "pros": ["Global tests", "Good pay", "Flexible"],
-    "cons": ["Screening", "Limited tests", "Payment delays"],
+    "requirements": [
+      "Microphone",
+      "English skills"
+    ],
+    "pros": [
+      "Global tests",
+      "Good pay",
+      "Flexible"
+    ],
+    "cons": [
+      "Screening",
+      "Limited tests",
+      "Payment delays"
+    ],
     "kenya_specific_tips": "Keep your profile updated to receive more test invitations.",
     "youtube_video_id": "XOgrmsm2OHc",
     "affiliate_link": "https://www.userlytics.com/"
@@ -1842,12 +3374,25 @@
     "category": "Rewards Program",
     "description": "A rewards program for surveys and tasks.",
     "detailed_overview": "InboxDollars pays users for taking surveys, watching videos, and shopping online. It is a simple way for Kenyans to earn extra cash.",
-    "payment_methods": ["PayPal", "Gift Cards"],
+    "payment_methods": [
+      "PayPal",
+      "Gift Cards"
+    ],
     "minimum_payout": "$15",
     "payout_frequency": "Varies",
-    "requirements": ["Profile completion"],
-    "pros": ["Many ways to earn", "Trusted", "Simple"],
-    "cons": ["High minimum payout", "Low pay", "Limited in Kenya"],
+    "requirements": [
+      "Profile completion"
+    ],
+    "pros": [
+      "Many ways to earn",
+      "Trusted",
+      "Simple"
+    ],
+    "cons": [
+      "High minimum payout",
+      "Low pay",
+      "Limited in Kenya"
+    ],
     "kenya_specific_tips": "Focus on surveys and videos as they are the easiest ways to earn.",
     "youtube_video_id": "x5Fs0f4LrT0",
     "affiliate_link": "https://www.inboxdollars.com/"
@@ -1859,12 +3404,24 @@
     "category": "Rewards Program",
     "description": "A rewards program for surveys and tasks.",
     "detailed_overview": "PrizeRebel allows users to earn points for surveys and tasks, which can be redeemed for gift cards. It is accessible to Kenyans.",
-    "payment_methods": ["Gift Cards"],
+    "payment_methods": [
+      "Gift Cards"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Varies",
-    "requirements": ["Profile completion"],
-    "pros": ["Easy to use", "Gift cards", "Simple"],
-    "cons": ["No cash payout", "Low pay", "Limited in Kenya"],
+    "requirements": [
+      "Profile completion"
+    ],
+    "pros": [
+      "Easy to use",
+      "Gift cards",
+      "Simple"
+    ],
+    "cons": [
+      "No cash payout",
+      "Low pay",
+      "Limited in Kenya"
+    ],
     "kenya_specific_tips": "Redeem your points for gift cards that you can use for online shopping.",
     "youtube_video_id": "9oV3ujhf6-U",
     "affiliate_link": "https://www.prizerebel.com/"
@@ -1876,12 +3433,26 @@
     "category": "Rewards Program",
     "description": "A rewards program for surveys and tasks.",
     "detailed_overview": "ySense (formerly ClixSense) is a popular rewards site that pays users for surveys, offers, and tasks. It is accessible to Kenyans.",
-    "payment_methods": ["PayPal", "Skrill", "Gift Cards"],
+    "payment_methods": [
+      "PayPal",
+      "Skrill",
+      "Gift Cards"
+    ],
     "minimum_payout": "$5",
     "payout_frequency": "Varies",
-    "requirements": ["Profile completion"],
-    "pros": ["Many ways to earn", "Trusted", "Low minimum"],
-    "cons": ["Low pay", "Disqualifications", "Slow accumulation"],
+    "requirements": [
+      "Profile completion"
+    ],
+    "pros": [
+      "Many ways to earn",
+      "Trusted",
+      "Low minimum"
+    ],
+    "cons": [
+      "Low pay",
+      "Disqualifications",
+      "Slow accumulation"
+    ],
     "kenya_specific_tips": "Complete your profile to qualify for more surveys.",
     "youtube_video_id": "qU6avvNtXr0",
     "affiliate_link": "https://www.ysense.com/"
@@ -1893,12 +3464,25 @@
     "category": "Rewards Program",
     "description": "A rewards program for various tasks.",
     "detailed_overview": "TimeBucks pays users for completing various tasks like surveys, watching videos, and clicking ads. It is accessible to Kenyans.",
-    "payment_methods": ["Crypto", "Bank Transfer"],
+    "payment_methods": [
+      "Crypto",
+      "Bank Transfer"
+    ],
     "minimum_payout": "$10",
     "payout_frequency": "Weekly",
-    "requirements": ["Account"],
-    "pros": ["Many tasks", "Crypto payout", "Simple"],
-    "cons": ["Low pay", "Time-consuming", "Complex interface"],
+    "requirements": [
+      "Account"
+    ],
+    "pros": [
+      "Many tasks",
+      "Crypto payout",
+      "Simple"
+    ],
+    "cons": [
+      "Low pay",
+      "Time-consuming",
+      "Complex interface"
+    ],
     "kenya_specific_tips": "Focus on the highest-paying tasks to maximize your earnings.",
     "youtube_video_id": "NrUFf3RSv2Q",
     "affiliate_link": "https://timebucks.com/"
@@ -1910,12 +3494,24 @@
     "category": "Crypto Rewards",
     "description": "Earn crypto for completing tasks.",
     "detailed_overview": "Cointiply allows users to earn Bitcoin and other cryptocurrencies by completing surveys, watching videos, and playing games.",
-    "payment_methods": ["Crypto Wallet"],
+    "payment_methods": [
+      "Crypto Wallet"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Instant",
-    "requirements": ["Account"],
-    "pros": ["Earn crypto", "Many tasks", "Fun"],
-    "cons": ["Low pay", "Time-consuming", "Volatility"],
+    "requirements": [
+      "Account"
+    ],
+    "pros": [
+      "Earn crypto",
+      "Many tasks",
+      "Fun"
+    ],
+    "cons": [
+      "Low pay",
+      "Time-consuming",
+      "Volatility"
+    ],
     "kenya_specific_tips": "Use the faucet and daily bonuses to boost your earnings.",
     "youtube_video_id": "F64HPhLflX0",
     "affiliate_link": "https://cointiply.com/"
@@ -1927,12 +3523,26 @@
     "category": "Rewards Program",
     "description": "A rewards program for surveys and tasks.",
     "detailed_overview": "Freecash pays users for completing surveys, offers, and tasks. It is known for its high payouts and fast withdrawals.",
-    "payment_methods": ["Crypto", "PayPal", "Gift Cards"],
+    "payment_methods": [
+      "Crypto",
+      "PayPal",
+      "Gift Cards"
+    ],
     "minimum_payout": "$0.50",
     "payout_frequency": "Instant",
-    "requirements": ["Account"],
-    "pros": ["High payouts", "Fast withdrawals", "Many tasks"],
-    "cons": ["Limited in Kenya", "Disqualifications", "Offer wall focus"],
+    "requirements": [
+      "Account"
+    ],
+    "pros": [
+      "High payouts",
+      "Fast withdrawals",
+      "Many tasks"
+    ],
+    "cons": [
+      "Limited in Kenya",
+      "Disqualifications",
+      "Offer wall focus"
+    ],
     "kenya_specific_tips": "Focus on the highest-paying offers to maximize your earnings.",
     "youtube_video_id": "HKCa-gEb6vw",
     "affiliate_link": "https://freecash.com/"
@@ -1944,12 +3554,26 @@
     "category": "Rewards Program",
     "description": "A rewards program for surveys and tasks.",
     "detailed_overview": "Idle-Empire allows users to earn points for surveys, offers, and tasks. It is accessible to Kenyans.",
-    "payment_methods": ["PayPal", "Gift Cards", "Crypto"],
+    "payment_methods": [
+      "PayPal",
+      "Gift Cards",
+      "Crypto"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Varies",
-    "requirements": ["Account"],
-    "pros": ["Many ways to earn", "Flexible", "Simple"],
-    "cons": ["Low pay", "Time-consuming", "Limited in Kenya"],
+    "requirements": [
+      "Account"
+    ],
+    "pros": [
+      "Many ways to earn",
+      "Flexible",
+      "Simple"
+    ],
+    "cons": [
+      "Low pay",
+      "Time-consuming",
+      "Limited in Kenya"
+    ],
     "kenya_specific_tips": "Complete your profile to qualify for more surveys.",
     "youtube_video_id": "M-o7MZdL458",
     "affiliate_link": "https://idle-empire.com/"
@@ -1961,12 +3585,25 @@
     "category": "App Testing",
     "description": "Earn points for trying new apps.",
     "detailed_overview": "FeaturePoints pays users for downloading and trying new mobile apps. It is a fun way for Kenyans to discover new apps while earning rewards.",
-    "payment_methods": ["Gift Cards", "PayPal"],
+    "payment_methods": [
+      "Gift Cards",
+      "PayPal"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Varies",
-    "requirements": ["Smartphone"],
-    "pros": ["Fun", "Easy", "Discover apps"],
-    "cons": ["Low pay", "Storage space", "Limited in Kenya"],
+    "requirements": [
+      "Smartphone"
+    ],
+    "pros": [
+      "Fun",
+      "Easy",
+      "Discover apps"
+    ],
+    "cons": [
+      "Low pay",
+      "Storage space",
+      "Limited in Kenya"
+    ],
     "kenya_specific_tips": "Only download apps you are genuinely interested in to save storage space.",
     "youtube_video_id": "uBEUPhB_Vz0",
     "affiliate_link": "https://www.featurepoints.com/"
@@ -1978,12 +3615,25 @@
     "category": "Data Collection",
     "description": "Earn rewards for sharing your data.",
     "detailed_overview": "Panel App pays users for sharing their mobile data and opinions. It is a passive way for Kenyans to earn small amounts of money.",
-    "payment_methods": ["Gift Cards", "PayPal"],
+    "payment_methods": [
+      "Gift Cards",
+      "PayPal"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Varies",
-    "requirements": ["Smartphone"],
-    "pros": ["Passive income", "Easy", "Simple"],
-    "cons": ["Privacy concerns", "Low pay", "Battery usage"],
+    "requirements": [
+      "Smartphone"
+    ],
+    "pros": [
+      "Passive income",
+      "Easy",
+      "Simple"
+    ],
+    "cons": [
+      "Privacy concerns",
+      "Low pay",
+      "Battery usage"
+    ],
     "kenya_specific_tips": "Only install if you are comfortable with sharing your data.",
     "youtube_video_id": "f4d9xGlNglM",
     "affiliate_link": "https://panelapp.com/"
@@ -1995,12 +3645,25 @@
     "category": "Data Collection",
     "description": "Earn rewards for sharing your mobile data.",
     "detailed_overview": "MobileXpression pays users for installing an app that tracks their mobile usage. It is a passive income stream for Kenyans.",
-    "payment_methods": ["Gift Cards", "PayPal"],
+    "payment_methods": [
+      "Gift Cards",
+      "PayPal"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Varies",
-    "requirements": ["Smartphone"],
-    "pros": ["Passive income", "Easy", "Simple"],
-    "cons": ["Privacy concerns", "Low pay", "Battery usage"],
+    "requirements": [
+      "Smartphone"
+    ],
+    "pros": [
+      "Passive income",
+      "Easy",
+      "Simple"
+    ],
+    "cons": [
+      "Privacy concerns",
+      "Low pay",
+      "Battery usage"
+    ],
     "kenya_specific_tips": "Ensure you have enough data and battery life before installing.",
     "youtube_video_id": "ixf7vycdsHE",
     "affiliate_link": "https://www.mobilexpression.com/"
@@ -2012,12 +3675,25 @@
     "category": "Data Collection",
     "description": "Earn rewards for sharing your mobile data.",
     "detailed_overview": "Nielsen pays users for installing an app that tracks their mobile usage. It is a reputable company offering passive income.",
-    "payment_methods": ["Gift Cards", "Sweepstakes"],
+    "payment_methods": [
+      "Gift Cards",
+      "Sweepstakes"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Varies",
-    "requirements": ["Smartphone"],
-    "pros": ["Reputable", "Passive income", "Simple"],
-    "cons": ["Privacy concerns", "Low pay", "Battery usage"],
+    "requirements": [
+      "Smartphone"
+    ],
+    "pros": [
+      "Reputable",
+      "Passive income",
+      "Simple"
+    ],
+    "cons": [
+      "Privacy concerns",
+      "Low pay",
+      "Battery usage"
+    ],
     "kenya_specific_tips": "Only install if you are comfortable with sharing your data.",
     "youtube_video_id": "mGgVKXLyai8",
     "affiliate_link": "https://nielsen.com/"
@@ -2029,12 +3705,25 @@
     "category": "Data Collection",
     "description": "Earn money for completing local tasks.",
     "detailed_overview": "Premise pays users for completing local tasks like taking photos of places or answering surveys. It is a great option for Kenyans in urban areas.",
-    "payment_methods": ["Crypto", "PayPal"],
+    "payment_methods": [
+      "Crypto",
+      "PayPal"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Instant",
-    "requirements": ["Smartphone"],
-    "pros": ["Local tasks", "Good pay", "Flexible"],
-    "cons": ["Limited locations", "Physical effort", "Battery usage"],
+    "requirements": [
+      "Smartphone"
+    ],
+    "pros": [
+      "Local tasks",
+      "Good pay",
+      "Flexible"
+    ],
+    "cons": [
+      "Limited locations",
+      "Physical effort",
+      "Battery usage"
+    ],
     "kenya_specific_tips": "Focus on tasks in your immediate vicinity to save on transport costs.",
     "youtube_video_id": "da2xow667Rw",
     "affiliate_link": "https://www.premise.com/"
@@ -2046,12 +3735,24 @@
     "category": "Market Research",
     "description": "Earn money for sharing your opinions.",
     "detailed_overview": "Streetbees pays users for sharing their opinions and experiences through short surveys. It is a simple way for Kenyans to earn extra cash.",
-    "payment_methods": ["PayPal"],
+    "payment_methods": [
+      "PayPal"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Varies",
-    "requirements": ["Smartphone"],
-    "pros": ["Easy", "Simple", "Flexible"],
-    "cons": ["Limited surveys", "Low pay", "PayPal only"],
+    "requirements": [
+      "Smartphone"
+    ],
+    "pros": [
+      "Easy",
+      "Simple",
+      "Flexible"
+    ],
+    "cons": [
+      "Limited surveys",
+      "Low pay",
+      "PayPal only"
+    ],
     "kenya_specific_tips": "Answer honestly to qualify for more surveys.",
     "youtube_video_id": "L2bXPgi0CEQ",
     "affiliate_link": "https://streetbees.com/"
@@ -2063,12 +3764,26 @@
     "category": "E-commerce Platform",
     "description": "A leading e-commerce platform in Kenya.",
     "detailed_overview": "Kilimall is a popular e-commerce platform in Kenya that allows sellers to reach a wide audience. It offers logistics support and payment processing.",
-    "payment_methods": ["M-Pesa", "Card"],
+    "payment_methods": [
+      "M-Pesa",
+      "Card"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Weekly",
-    "requirements": ["Seller account", "Inventory"],
-    "pros": ["Local focus", "Logistics support", "Large audience"],
-    "cons": ["Commission fees", "Competition", "Strict rules"],
+    "requirements": [
+      "Seller account",
+      "Inventory"
+    ],
+    "pros": [
+      "Local focus",
+      "Logistics support",
+      "Large audience"
+    ],
+    "cons": [
+      "Commission fees",
+      "Competition",
+      "Strict rules"
+    ],
     "kenya_specific_tips": "Use their logistics services to ensure timely delivery to customers.",
     "youtube_video_id": "zue-CUpvm7w",
     "affiliate_link": "https://www.kilimall.co.ke/"
@@ -2080,12 +3795,26 @@
     "category": "Social Commerce",
     "description": "Sell products directly on Instagram.",
     "detailed_overview": "Instagram Shopping allows businesses to tag products in their posts and stories. It is a powerful tool for Kenyan brands to reach customers visually.",
-    "payment_methods": ["M-Pesa", "Card"],
+    "payment_methods": [
+      "M-Pesa",
+      "Card"
+    ],
     "minimum_payout": "N/A",
     "payout_frequency": "N/A",
-    "requirements": ["Business account", "Product catalog"],
-    "pros": ["Visual appeal", "Large audience", "Direct sales"],
-    "cons": ["Algorithm changes", "Competition", "Setup required"],
+    "requirements": [
+      "Business account",
+      "Product catalog"
+    ],
+    "pros": [
+      "Visual appeal",
+      "Large audience",
+      "Direct sales"
+    ],
+    "cons": [
+      "Algorithm changes",
+      "Competition",
+      "Setup required"
+    ],
     "kenya_specific_tips": "Use high-quality images and engaging captions to attract customers.",
     "youtube_video_id": "OX1hGJ4QMAc",
     "affiliate_link": "https://business.instagram.com/shopping"
@@ -2097,12 +3826,25 @@
     "category": "Social Commerce",
     "description": "Sell products via WhatsApp.",
     "detailed_overview": "WhatsApp Business allows Kenyan sellers to communicate with customers, showcase products, and process orders. It is a vital tool for small businesses.",
-    "payment_methods": ["M-Pesa"],
+    "payment_methods": [
+      "M-Pesa"
+    ],
     "minimum_payout": "N/A",
     "payout_frequency": "N/A",
-    "requirements": ["Smartphone", "Business account"],
-    "pros": ["Direct communication", "Free", "Wide reach"],
-    "cons": ["Manual processes", "Limited features", "Spam risks"],
+    "requirements": [
+      "Smartphone",
+      "Business account"
+    ],
+    "pros": [
+      "Direct communication",
+      "Free",
+      "Wide reach"
+    ],
+    "cons": [
+      "Manual processes",
+      "Limited features",
+      "Spam risks"
+    ],
     "kenya_specific_tips": "Use catalog features to showcase your products professionally.",
     "youtube_video_id": "uOcr9CfEl2Q",
     "affiliate_link": "https://www.whatsapp.com/business"
@@ -2114,12 +3856,25 @@
     "category": "E-commerce Platform",
     "description": "A leading e-commerce platform for building online stores.",
     "detailed_overview": "Shopify allows Kenyans to build professional online stores with ease. It offers various themes, apps, and payment integrations.",
-    "payment_methods": ["Various"],
+    "payment_methods": [
+      "Various"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Varies",
-    "requirements": ["Subscription", "Domain"],
-    "pros": ["Easy to use", "Professional", "Scalable"],
-    "cons": ["Monthly fee", "Transaction fees", "Learning curve"],
+    "requirements": [
+      "Subscription",
+      "Domain"
+    ],
+    "pros": [
+      "Easy to use",
+      "Professional",
+      "Scalable"
+    ],
+    "cons": [
+      "Monthly fee",
+      "Transaction fees",
+      "Learning curve"
+    ],
     "kenya_specific_tips": "Use local payment gateways like Pesapal or Flutterwave to accept M-Pesa.",
     "youtube_video_id": "hizvM-VlT5I",
     "affiliate_link": "https://www.shopify.com/"
@@ -2131,12 +3886,25 @@
     "category": "E-commerce Plugin",
     "description": "A WordPress plugin for building online stores.",
     "detailed_overview": "WooCommerce is a free plugin that turns WordPress sites into online stores. It is a flexible and cost-effective option for Kenyan businesses.",
-    "payment_methods": ["Various"],
+    "payment_methods": [
+      "Various"
+    ],
     "minimum_payout": "N/A",
     "payout_frequency": "N/A",
-    "requirements": ["WordPress site", "Hosting"],
-    "pros": ["Free", "Flexible", "Large community"],
-    "cons": ["Technical setup", "Maintenance", "Hosting costs"],
+    "requirements": [
+      "WordPress site",
+      "Hosting"
+    ],
+    "pros": [
+      "Free",
+      "Flexible",
+      "Large community"
+    ],
+    "cons": [
+      "Technical setup",
+      "Maintenance",
+      "Hosting costs"
+    ],
     "kenya_specific_tips": "Use a reliable hosting provider to ensure your store runs smoothly.",
     "youtube_video_id": "xMPa9fNerB4",
     "affiliate_link": "https://woocommerce.com/"
@@ -2148,12 +3916,25 @@
     "category": "E-commerce Platform",
     "description": "Sell products on Amazon with fulfillment by Amazon.",
     "detailed_overview": "Amazon FBA allows sellers to store products in Amazon's warehouses. Kenyans can use this model to sell to global markets, though logistics can be complex.",
-    "payment_methods": ["Bank Transfer"],
+    "payment_methods": [
+      "Bank Transfer"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Bi-weekly",
-    "requirements": ["Seller account", "Inventory"],
-    "pros": ["Prime eligibility", "Hands-off fulfillment", "Global reach"],
-    "cons": ["High fees", "Complex logistics", "Strict rules"],
+    "requirements": [
+      "Seller account",
+      "Inventory"
+    ],
+    "pros": [
+      "Prime eligibility",
+      "Hands-off fulfillment",
+      "Global reach"
+    ],
+    "cons": [
+      "High fees",
+      "Complex logistics",
+      "Strict rules"
+    ],
     "kenya_specific_tips": "Research thoroughly before starting as Amazon FBA requires significant capital and planning.",
     "youtube_video_id": "KCOieD4cFpE",
     "affiliate_link": "https://sell.amazon.com/fba"
@@ -2165,12 +3946,26 @@
     "category": "Dropshipping",
     "description": "Sell products from AliExpress without holding inventory.",
     "detailed_overview": "Dropshipping with AliExpress allows Kenyans to sell products without holding inventory. You purchase from AliExpress only when a customer buys from you.",
-    "payment_methods": ["Card", "PayPal"],
+    "payment_methods": [
+      "Card",
+      "PayPal"
+    ],
     "minimum_payout": "N/A",
     "payout_frequency": "N/A",
-    "requirements": ["Online store", "Marketing"],
-    "pros": ["Low startup cost", "No inventory", "Wide product range"],
-    "cons": ["Long shipping times", "Low margins", "Quality control"],
+    "requirements": [
+      "Online store",
+      "Marketing"
+    ],
+    "pros": [
+      "Low startup cost",
+      "No inventory",
+      "Wide product range"
+    ],
+    "cons": [
+      "Long shipping times",
+      "Low margins",
+      "Quality control"
+    ],
     "kenya_specific_tips": "Be transparent about shipping times to manage customer expectations.",
     "youtube_video_id": "aXiDxiMYWgQ",
     "affiliate_link": "https://www.aliexpress.com/"
@@ -2182,12 +3977,25 @@
     "category": "Dropshipping Platform",
     "description": "A dropshipping platform with warehousing services.",
     "detailed_overview": "CJ Dropshipping offers sourcing, warehousing, and shipping services. It is a comprehensive solution for Kenyan dropshippers.",
-    "payment_methods": ["PayPal", "Card"],
+    "payment_methods": [
+      "PayPal",
+      "Card"
+    ],
     "minimum_payout": "N/A",
     "payout_frequency": "N/A",
-    "requirements": ["Account"],
-    "pros": ["All-in-one", "Warehousing", "Sourcing"],
-    "cons": ["Complex interface", "Communication", "Quality control"],
+    "requirements": [
+      "Account"
+    ],
+    "pros": [
+      "All-in-one",
+      "Warehousing",
+      "Sourcing"
+    ],
+    "cons": [
+      "Complex interface",
+      "Communication",
+      "Quality control"
+    ],
     "kenya_specific_tips": "Use their sourcing request feature to find specific products.",
     "youtube_video_id": "gK2FOkhH95E",
     "affiliate_link": "https://cjdropshipping.com/"
@@ -2199,12 +4007,26 @@
     "category": "Print on Demand",
     "description": "A print-on-demand service.",
     "detailed_overview": "Printful allows Kenyans to sell custom-designed products without holding inventory. They handle printing and shipping.",
-    "payment_methods": ["Card", "PayPal"],
+    "payment_methods": [
+      "Card",
+      "PayPal"
+    ],
     "minimum_payout": "N/A",
     "payout_frequency": "N/A",
-    "requirements": ["Designs", "Store"],
-    "pros": ["No inventory", "High quality", "Integration"],
-    "cons": ["Lower margins", "Shipping costs", "Design skills needed"],
+    "requirements": [
+      "Designs",
+      "Store"
+    ],
+    "pros": [
+      "No inventory",
+      "High quality",
+      "Integration"
+    ],
+    "cons": [
+      "Lower margins",
+      "Shipping costs",
+      "Design skills needed"
+    ],
     "kenya_specific_tips": "Focus on niche designs to stand out in the crowded POD market.",
     "youtube_video_id": "-y7TrSvAt20",
     "affiliate_link": "https://www.printful.com/"
@@ -2216,12 +4038,26 @@
     "category": "Print on Demand",
     "description": "A print-on-demand network.",
     "detailed_overview": "Printify connects sellers with print providers worldwide. It offers competitive pricing and a wide range of products for Kenyan entrepreneurs.",
-    "payment_methods": ["PayPal", "Card"],
+    "payment_methods": [
+      "PayPal",
+      "Card"
+    ],
     "minimum_payout": "N/A",
     "payout_frequency": "N/A",
-    "requirements": ["Designs", "Store"],
-    "pros": ["Competitive pricing", "Many providers", "Integration"],
-    "cons": ["Quality varies", "Shipping times", "Design skills needed"],
+    "requirements": [
+      "Designs",
+      "Store"
+    ],
+    "pros": [
+      "Competitive pricing",
+      "Many providers",
+      "Integration"
+    ],
+    "cons": [
+      "Quality varies",
+      "Shipping times",
+      "Design skills needed"
+    ],
     "kenya_specific_tips": "Order samples to check the quality of different print providers.",
     "youtube_video_id": "2Kk8mWFewXU",
     "affiliate_link": "https://printify.com/"
@@ -2233,12 +4069,26 @@
     "category": "Merchandise Platform",
     "description": "A platform for creating and selling merchandise.",
     "detailed_overview": "Spring (formerly Teespring) allows creators to sell custom merchandise. It is integrated with YouTube and other platforms.",
-    "payment_methods": ["PayPal", "Payoneer"],
+    "payment_methods": [
+      "PayPal",
+      "Payoneer"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Monthly",
-    "requirements": ["Audience", "Designs"],
-    "pros": ["Easy to use", "Integration", "No inventory"],
-    "cons": ["Lower margins", "Competition", "Platform dependency"],
+    "requirements": [
+      "Audience",
+      "Designs"
+    ],
+    "pros": [
+      "Easy to use",
+      "Integration",
+      "No inventory"
+    ],
+    "cons": [
+      "Lower margins",
+      "Competition",
+      "Platform dependency"
+    ],
     "kenya_specific_tips": "Promote your merch to your existing audience for best results.",
     "youtube_video_id": "LF6DlGK2Hy0",
     "affiliate_link": "https://spring.com/"
@@ -2250,12 +4100,25 @@
     "category": "Print on Demand",
     "description": "A marketplace for artist-designed products.",
     "detailed_overview": "Redbubble allows artists to upload designs that are printed on various products. It is a passive income stream for Kenyan creatives.",
-    "payment_methods": ["PayPal", "Payoneer"],
+    "payment_methods": [
+      "PayPal",
+      "Payoneer"
+    ],
     "minimum_payout": "$20",
     "payout_frequency": "Monthly",
-    "requirements": ["Designs"],
-    "pros": ["Passive income", "Large audience", "No inventory"],
-    "cons": ["High competition", "Low margins", "Copyright issues"],
+    "requirements": [
+      "Designs"
+    ],
+    "pros": [
+      "Passive income",
+      "Large audience",
+      "No inventory"
+    ],
+    "cons": [
+      "High competition",
+      "Low margins",
+      "Copyright issues"
+    ],
     "kenya_specific_tips": "Use relevant tags to make your designs discoverable.",
     "youtube_video_id": "WFFlBJWFx58",
     "affiliate_link": "https://www.redbubble.com/"
@@ -2267,12 +4130,25 @@
     "category": "Digital Products",
     "description": "A platform for selling digital products.",
     "detailed_overview": "Gumroad allows creators to sell digital products like eBooks, courses, and software. It is a simple and effective platform for Kenyan creators.",
-    "payment_methods": ["PayPal", "Card"],
+    "payment_methods": [
+      "PayPal",
+      "Card"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Weekly",
-    "requirements": ["Digital product"],
-    "pros": ["Easy to use", "Low fees", "Direct sales"],
-    "cons": ["Marketing required", "Platform fees", "Competition"],
+    "requirements": [
+      "Digital product"
+    ],
+    "pros": [
+      "Easy to use",
+      "Low fees",
+      "Direct sales"
+    ],
+    "cons": [
+      "Marketing required",
+      "Platform fees",
+      "Competition"
+    ],
     "kenya_specific_tips": "Build an email list to promote your digital products effectively.",
     "youtube_video_id": "JHwDZpQbvTQ",
     "affiliate_link": "https://gumroad.com/"
@@ -2284,12 +4160,25 @@
     "category": "Digital Products",
     "description": "A platform for selling digital products.",
     "detailed_overview": "Payhip is a simple platform for selling digital downloads. It is a good alternative to Gumroad for Kenyan creators.",
-    "payment_methods": ["PayPal", "Stripe"],
+    "payment_methods": [
+      "PayPal",
+      "Stripe"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Instant",
-    "requirements": ["Digital product"],
-    "pros": ["Simple", "Low fees", "Instant payout"],
-    "cons": ["Basic features", "Marketing required", "Limited customization"],
+    "requirements": [
+      "Digital product"
+    ],
+    "pros": [
+      "Simple",
+      "Low fees",
+      "Instant payout"
+    ],
+    "cons": [
+      "Basic features",
+      "Marketing required",
+      "Limited customization"
+    ],
     "kenya_specific_tips": "Use Payhip for its simplicity and instant payout features.",
     "youtube_video_id": "Wj-QZCzKbkg",
     "affiliate_link": "https://payhip.com/"
@@ -2301,12 +4190,25 @@
     "category": "Online Courses",
     "description": "A platform for creating and selling online courses.",
     "detailed_overview": "Teachable allows experts to create and sell online courses. It is a powerful tool for Kenyan educators and coaches.",
-    "payment_methods": ["PayPal", "Stripe"],
+    "payment_methods": [
+      "PayPal",
+      "Stripe"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Monthly",
-    "requirements": ["Course content"],
-    "pros": ["All-in-one", "Marketing tools", "Student management"],
-    "cons": ["Transaction fees", "Monthly cost", "Learning curve"],
+    "requirements": [
+      "Course content"
+    ],
+    "pros": [
+      "All-in-one",
+      "Marketing tools",
+      "Student management"
+    ],
+    "cons": [
+      "Transaction fees",
+      "Monthly cost",
+      "Learning curve"
+    ],
     "kenya_specific_tips": "Create high-quality video content to engage your students.",
     "youtube_video_id": "qkh-XzpHg1c",
     "affiliate_link": "https://teachable.com/"
@@ -2318,12 +4220,25 @@
     "category": "Online Courses",
     "description": "A marketplace for online courses.",
     "detailed_overview": "Udemy allows instructors to sell courses to a global audience. It is a great platform for Kenyan experts to share their knowledge.",
-    "payment_methods": ["PayPal", "Payoneer"],
+    "payment_methods": [
+      "PayPal",
+      "Payoneer"
+    ],
     "minimum_payout": "$1",
     "payout_frequency": "Monthly",
-    "requirements": ["Course content"],
-    "pros": ["Large audience", "Marketing support", "Passive income"],
-    "cons": ["Price discounts", "Competition", "Revenue share"],
+    "requirements": [
+      "Course content"
+    ],
+    "pros": [
+      "Large audience",
+      "Marketing support",
+      "Passive income"
+    ],
+    "cons": [
+      "Price discounts",
+      "Competition",
+      "Revenue share"
+    ],
     "kenya_specific_tips": "Optimize your course title and description for search visibility.",
     "youtube_video_id": "IbPdC2Alv4Y",
     "affiliate_link": "https://www.udemy.com/"
@@ -2335,12 +4250,24 @@
     "category": "Online Courses",
     "description": "A membership-based learning platform.",
     "detailed_overview": "Skillshare pays instructors based on the minutes watched by students. It is a good option for Kenyan creatives and educators.",
-    "payment_methods": ["PayPal"],
+    "payment_methods": [
+      "PayPal"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Monthly",
-    "requirements": ["Course content"],
-    "pros": ["Passive income", "Creative community", "No marketing needed"],
-    "cons": ["Royalty model", "Competition", "PayPal only"],
+    "requirements": [
+      "Course content"
+    ],
+    "pros": [
+      "Passive income",
+      "Creative community",
+      "No marketing needed"
+    ],
+    "cons": [
+      "Royalty model",
+      "Competition",
+      "PayPal only"
+    ],
     "kenya_specific_tips": "Create engaging, short lessons to maximize watch time.",
     "youtube_video_id": "PE_Jk94K1EU",
     "affiliate_link": "https://www.skillshare.com/"
@@ -2352,12 +4279,25 @@
     "category": "Social Commerce",
     "description": "Sell products directly on TikTok.",
     "detailed_overview": "TikTok Shop allows creators and businesses to sell products directly within the app. It is a rapidly growing opportunity for Kenyan sellers.",
-    "payment_methods": ["Varies"],
+    "payment_methods": [
+      "Varies"
+    ],
     "minimum_payout": "Varies",
     "payout_frequency": "Varies",
-    "requirements": ["TikTok account", "Products"],
-    "pros": ["High engagement", "Direct sales", "Viral potential"],
-    "cons": ["New platform", "Rules", "Competition"],
+    "requirements": [
+      "TikTok account",
+      "Products"
+    ],
+    "pros": [
+      "High engagement",
+      "Direct sales",
+      "Viral potential"
+    ],
+    "cons": [
+      "New platform",
+      "Rules",
+      "Competition"
+    ],
     "kenya_specific_tips": "Create engaging video content to showcase your products.",
     "youtube_video_id": "9qlG4zdbHWY",
     "affiliate_link": "https://www.tiktok.com/shop"
