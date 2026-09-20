@@ -39,7 +39,7 @@ There's nothing special about `src/components/`, but that's where we like to put
 
 The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
 
-Any static assets,  like images, can be placed in the `public/` directory.
+Any static assets, like images, can be placed in the `public/` directory.
 
 ## 🧞 Commands
 
